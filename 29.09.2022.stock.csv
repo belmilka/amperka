@@ -1,0 +1,846 @@
+External ID,Location/Display Name,Product/Internal Reference,Product/Name,Product/Internal Category/Name,Quantity,Reserved Quantity
+__export__.stock_quant_85238_1dd6b191,AMPRU/Stock,AMP-S010,Матрёшка Z,Saleable,135,135
+__export__.stock_quant_85239_1c0e0a63,AMPRU/Stock,AMP-B005-B,Светодиод «Пиранья» (Troyka-модуль),Saleable,98,0
+__export__.stock_quant_86080_ac877b6c,AMPRU/Stock,AMP-S025,Платформа #Робоняша,Saleable,15,0
+__export__.stock_quant_86098_5d44ba30,AMPRU/Stock,8PK-2061,Набор отвёрток,Saleable,6,0
+__export__.stock_quant_86102_ef492a19,AMPRU/Stock,A000062,Arduino Due,Saleable,15,2
+__export__.stock_quant_86108_1365f1ef,AMPRU/Stock,AMP-B002,Аналоговый термометр (Troyka-модуль),Saleable,71,23
+__export__.stock_quant_86110_fa07331b,AMPRU/Stock,AMP-B004,Датчик освещённости (Troyka-модуль),Saleable,32,20
+__export__.stock_quant_86111_ae41879d,AMPRU/Stock,AMP-B005-G,Светодиод «Пиранья» (Troyka-модуль),Saleable,160,0
+__export__.stock_quant_86112_5cad2cbf,AMPRU/Stock,AMP-B005-R,Светодиод «Пиранья» (Troyka-модуль),Saleable,12,0
+__export__.stock_quant_86114_ef02735d,AMPRU/Stock,AMP-B005-Y,Светодиод «Пиранья» (Troyka-модуль),Saleable,83,0
+__export__.stock_quant_86117_24592af9,AMPRU/Stock,AMP-B008,Зуммер (Troyka-модуль),Saleable,47,20
+__export__.stock_quant_86124_fe974a44,AMPRU/Stock,AMP-B018,Датчик линии цифровой,Saleable,13,0
+__export__.stock_quant_86126_06d14313,AMPRU/Stock,AMP-B020,Strela,Saleable,7,0
+__export__.stock_quant_86127_7395fde3,AMPRU/Stock,AMP-B022,Датчик наклона (Troyka-модуль),Saleable,15,0
+__export__.stock_quant_86130_16b85e4a,AMPRU/Stock,AMP-B026,Повышающий стабилизатор напряжения (Troyka-модуль),Saleable,6,0
+__export__.stock_quant_86132_ebfb5936,AMPRU/Stock,AMP-B031,Opener Shield,Saleable,33,0
+__export__.stock_quant_86134_a31cb279,AMPRU/Stock,AMP-B033,Магнитометр / компас (Troyka-модуль),Saleable,1,1
+__export__.stock_quant_86140_6f800121,AMPRU/Stock,AMP-B042,Proto Shield,Saleable,15,3
+__export__.stock_quant_86146_dfa269a2,AMPRU/Stock,AMP-B051,Датчик паров спирта MQ-3 (Troyka-модуль),Saleable,19,0
+__export__.stock_quant_86148_d0f9b36e,AMPRU/Stock,AMP-B053,Датчик горючих газов MQ-5 (Troyka-модуль),Saleable,40,0
+__export__.stock_quant_86151_6498a579,AMPRU/Stock,AMP-B056,Датчик водорода MQ-8 (Troyka-модуль),Saleable,29,0
+__export__.stock_quant_86155_857d06fc,AMPRU/Stock,AMP-B062-B,Светодиод 5 мм (Troyka-модуль),Saleable,15,0
+__export__.stock_quant_86156_13396606,AMPRU/Stock,AMP-B062-G,Светодиод 5 мм (Troyka-модуль),Saleable,17,0
+__export__.stock_quant_86157_c9ec543e,AMPRU/Stock,AMP-B062-IR,ИК-передатчик (Troyka-модуль),Saleable,40,20
+__export__.stock_quant_86159_d14c8b02,AMPRU/Stock,AMP-B062-W,Светодиод 5 мм (Troyka-модуль),Saleable,142,0
+__export__.stock_quant_86172_c50b9899,AMPRU/Stock,AMP-B075,Аудиовыход mini-jack (Troyka-модуль),Saleable,10,0
+__export__.stock_quant_86173_4fc28f0e,AMPRU/Stock,AMP-B076,Аудиовыход c винтовыми клеммами (Troyka-модуль),Saleable,16,0
+__export__.stock_quant_86174_45949c15,AMPRU/Stock,AMP-B077-B,Кнопка со светодиодом (Troyka-модуль),Saleable,10,0
+__export__.stock_quant_86179_20e62a07,AMPRU/Stock,AMP-B082,MIDI вход (Troyka-модуль),Saleable,7,0
+__export__.stock_quant_86182_48689f1e,AMPRU/Stock,AMP-B085,Четырёхкнопочная клавиатура (Troyka-модуль),Saleable,5,0
+__export__.stock_quant_86183_c64b268a,AMPRU/Stock,AMP-B086-G,Четырёхразрядный индикатор (Troyka-модуль),Saleable,16,0
+__export__.stock_quant_86187_3a57cd00,AMPRU/Stock,AMP-B091,Датчик вибрации (Troyka-модуль),Saleable,37,20
+__export__.stock_quant_86195_712762b3,AMPRU/Stock,AMP-B104,TV-выход (Troyka модуль),Saleable,25,0
+__export__.stock_quant_86199_4a054cbf,AMPRU/Stock,AMP-B111,Усилитель класса D (Troyka-модуль),Saleable,5,5
+__export__.stock_quant_86205_7894cb42,AMPRU/Stock,AMP-B119,Плата расширения Slot Expander,Saleable,11,0
+__export__.stock_quant_86206_3aea6bce,AMPRU/Stock,AMP-B121,Motor Shield Plus,Saleable,5,0
+__export__.stock_quant_86211_36621f29,AMPRU/Stock,AMP-B126,Адаптер Slot Connector,Saleable,31,0
+__export__.stock_quant_86213_359e8b5a,AMPRU/Stock,AMP-B129,Troyka Pin-up,Saleable,130,0
+__export__.stock_quant_86214_f304a1bb,AMPRU/Stock,AMP-B131,AC/DC Shield,Saleable,6,0
+__export__.stock_quant_86216_ed037b1b,AMPRU/Stock,AMP-B140,AC/DC преобразователь «5 В 3000 мА» (Troyka-модуль),Saleable,5,0
+__export__.stock_quant_86217_c532b0f8,AMPRU/Stock,AMP-CC104-10,Конденсаторы керамические 100 нФ (10 шт.),Saleable,49,0
+__export__.stock_quant_86233_f9b17bfb,AMPRU/Stock,AMP-M007,Нейлоновые винты М3×8 (4 шт.),Saleable,62,0
+__export__.stock_quant_86238_941f4384,AMPRU/Stock,AMP-M016,Крепления моторов и датчиков линии (#Структор),Saleable,21,0
+__export__.stock_quant_86239_c60d9f1f,AMPRU/Stock,AMP-M017,Крепления микросерво (#Структор),Saleable,5,0
+__export__.stock_quant_86241_2a74aad8,AMPRU/Stock,AMP-M020,Пластины микро (#Структор),Saleable,8,0
+__export__.stock_quant_86242_872317dd,AMPRU/Stock,AMP-M021,Пластины мини (#Структор),Saleable,12,0
+__export__.stock_quant_86243_3b447b1f,AMPRU/Stock,AMP-M022,Пластины средние (#Структор),Saleable,38,0
+__export__.stock_quant_86244_85841b7c,AMPRU/Stock,AMP-M023,Рейки (#Структор),Saleable,13,0
+__export__.stock_quant_86245_d0b63e63,AMPRU/Stock,AMP-M024,Широкие рейки (#Структор),Saleable,8,0
+__export__.stock_quant_86248_2aa216cf,AMPRU/Stock,AMP-M034,Slot Box (#Структор),Saleable,8,0
+__export__.stock_quant_86250_5847c358,AMPRU/Stock,AMP-R100K-10,Резисторы 100 кОм (10 шт.),Saleable,40,0
+__export__.stock_quant_86251_1d91fb10,AMPRU/Stock,AMP-R10K-10,Резисторы 10 кОм (10 шт.),Saleable,549,0
+__export__.stock_quant_86252_10e12824,AMPRU/Stock,AMP-R1K-10,Резисторы 1 кОм (10 шт.),Saleable,11,0
+__export__.stock_quant_86253_00df8c71,AMPRU/Stock,AMP-R220R-10,Резисторы 220 Ом (10 шт.),Saleable,98,0
+__export__.stock_quant_86254_da20eeba,AMPRU/Stock,AMP-R2K2-10,"Резисторы 2,2 кОм (10 шт.)",Saleable,25,1
+__export__.stock_quant_86257_c58d2e6a,AMPRU/Stock,AMP-W004,Кабель USB (A — B),Saleable,30,0
+__export__.stock_quant_86258_954ded0a,AMPRU/Stock,AMP-W005,Соединительные провода «папа-папа»,Saleable,33,1
+__export__.stock_quant_86259_36553f68,AMPRU/Stock,AMP-W006,Соединительные провода «мама-мама»,Saleable,42,6
+__export__.stock_quant_86261_63641904,AMPRU/Stock,AMP-W008,Кабель HDMI (1 м),Saleable,16,0
+__export__.stock_quant_86262_e278799a,AMPRU/Stock,AMP-W009,Кабель USB (A — Micro USB),Saleable,18,12
+__export__.stock_quant_86263_1e884e6c,AMPRU/Stock,AMP-W010,Кабель USB (A — Mini USB),Saleable,28,12
+__export__.stock_quant_86265_bcbdbd57,AMPRU/Stock,AMP-W017,Провода с крокодилами (5 шт.),Saleable,27,4
+__export__.stock_quant_86266_c6749373,AMPRU/Stock,AMP-W021,Соединительные провода «папа-папа» (20 шт.),Saleable,11,9
+__export__.stock_quant_86267_fef60eec,AMPRU/Stock,AMP-X002,Breadboard,Saleable,12,1
+__export__.stock_quant_86269_795c09ac,AMPRU/Stock,AMP-X004,Набор перемычек,Saleable,23,0
+__export__.stock_quant_86274_35474f47,AMPRU/Stock,AMP-X009-W4,Светодиоды 5 мм (4 шт.),Saleable,65,0
+__export__.stock_quant_86280_324d476b,AMPRU/Stock,AMP-X018,Термистор,Saleable,40,0
+__export__.stock_quant_86281_369a8df8,AMPRU/Stock,AMP-X019,Выходной сдвиговый регистр SN74HC595N,Saleable,27,0
+__export__.stock_quant_86283_0b9cee88,AMPRU/Stock,AMP-X022,ИК-приёмник,Saleable,14,0
+__export__.stock_quant_86284_aebe9952,AMPRU/Stock,AMP-X023,ИК-приёмник,Saleable,23,0
+__export__.stock_quant_86286_ea572bd4,AMPRU/Stock,AMP-X025,Микроконтроллер ATtiny45-20PU,Saleable,3,0
+__export__.stock_quant_86289_dd83537a,AMPRU/Stock,AMP-X028,Штырьковые соединители длинные (1×40),Saleable,33,2
+__export__.stock_quant_86291_db2de1c5,AMPRU/Stock,AMP-X030,Пьезо-пищалка,Saleable,5,0
+__export__.stock_quant_86292_b5b21c8f,AMPRU/Stock,AMP-X033,Инфракрасный дальномер Sharp GP2Y0A02YK (20–150 см),Saleable,24,7
+__export__.stock_quant_86295_f4d9053e,AMPRU/Stock,AMP-X037,Сборка Дарлингтона ULN2003A,Saleable,13,0
+__export__.stock_quant_86297_ff1c2f84,AMPRU/Stock,AMP-X039,Компаратор LM339N,Saleable,20,0
+__export__.stock_quant_86298_3e557b46,AMPRU/Stock,AMP-X040,Датчик температуры DS18B20+,Saleable,18,0
+__export__.stock_quant_86301_2dea1b15,AMPRU/Stock,AMP-X044,Семисегментный драйвер CD4026BE,Saleable,29,0
+__export__.stock_quant_86302_417a2f75,AMPRU/Stock,AMP-X045-5,Диоды выпрямительные 1N4007 (5 шт.),Saleable,16,1
+__export__.stock_quant_86303_e4e6f1d7,AMPRU/Stock,AMP-X046,Семисегментный индикатор,Saleable,23,0
+__export__.stock_quant_86304_a2892a4d,AMPRU/Stock,AMP-X049,Тумблер KN3(A)-102AA-C2,Saleable,12,0
+__export__.stock_quant_86307_8811dc29,AMPRU/Stock,AMP-X052,Диод Зенера (Стабилитрон),Saleable,29,0
+__export__.stock_quant_86308_f19088e7,AMPRU/Stock,AMP-X053,Батарейный отсек 3×2 AA,Saleable,8,1
+__export__.stock_quant_86311_50d2dcbf,AMPRU/Stock,AMP-X056,"Штекер питания 2,1 мм с клеммником",Saleable,6,1
+__export__.stock_quant_86312_5ff1cfae,AMPRU/Stock,AMP-X058,Микроконтроллер ATmega48PA-PU,Saleable,7,0
+__export__.stock_quant_86313_cb42d687,AMPRU/Stock,AMP-X059,Микроконтроллер ATtiny84-20PU,Saleable,4,0
+__export__.stock_quant_86314_2790ca87,AMPRU/Stock,AMP-X060,Инвертирующий триггер Шмитта SN74HC14N,Saleable,18,0
+__export__.stock_quant_86319_14e36fa4,AMPRU/Stock,AMP-X100-FLA,Текстовый экран 16×2 / янтарный с чёрным,Saleable,17,0
+__export__.stock_quant_86320_f07a403e,AMPRU/Stock,AMP-X100-KLW,Текстовый экран 16×2 / синий с белым,Saleable,3,0
+__export__.stock_quant_86321_488efbc9,AMPRU/Stock,AMP-X100-VLG,Текстовый экран 16×2 / чёрный с зелёным,Saleable,9,0
+__export__.stock_quant_86322_27be5445,AMPRU/Stock,AMP-X101-FLA,Текстовый экран 20×4 / янтарный с чёрным,Saleable,10,0
+__export__.stock_quant_86323_61fb3e69,AMPRU/Stock,AMP-X101-VLG,Текстовый экран 20×4 / чёрный с зелёным,Saleable,13,0
+__export__.stock_quant_86329_452a5c20,AMPRU/Stock,AMP-X121,Шаговый двигатель 42STH60-1206A,Saleable,96,0
+__export__.stock_quant_86331_ab11f7e3,AMPRU/Stock,AMP-X126,Резистор давления (6 мм),Saleable,40,0
+__export__.stock_quant_86336_42435ff7,AMPRU/Stock,AMP-X140-2,Колёса 42×19 мм (пара),Saleable,13,0
+__export__.stock_quant_86341_d394c2ce,AMPRU/Stock,AMP-X146,Конспект хакера,Saleable,41,0
+__export__.stock_quant_86347_14e03679,AMPRU/Stock,AMP-X156,Держатель печатной платы с лупой,Saleable,6,0
+__export__.stock_quant_86349_e429ea44,AMPRU/Stock,AMP-X163,Магнитный извещатель (геркон),Saleable,14,0
+__export__.stock_quant_86350_15772551,AMPRU/Stock,AMP-X181,Батарейный отсек 1 AA,Saleable,5,0
+__export__.stock_quant_86351_15586462,AMPRU/Stock,AMP-X182,Батарейный отсек 2 AA,Saleable,10,0
+__export__.stock_quant_86352_ef59e1ea,AMPRU/Stock,AMP-X183,Батарейный отсек 4 AA,Saleable,12,0
+__export__.stock_quant_86353_c995cad3,AMPRU/Stock,AMP-X187,Припой с флюсом (20 г),Saleable,21,0
+__export__.stock_quant_86354_dbbe29f7,AMPRU/Stock,AMP-X189,NiMH-аккумулятор «Крона» (250 мАч),Saleable,210,0
+__export__.stock_quant_86356_5ed2ddfc,AMPRU/Stock,AMP-X193,Батарейный отсек 3 AA,Saleable,7,0
+__export__.stock_quant_86359_10b41aab,AMPRU/Stock,AMP-X198,Breadboard Micro 2×8,Saleable,7,0
+__export__.stock_quant_86363_640852c1,AMPRU/Stock,AMP-X204,Клавиатура 4×3 кнопки,Saleable,14,0
+__export__.stock_quant_86373_11ac2c9e,AMPRU/Stock,AMP-X225,Герметичный корпус 115×65×55,Saleable,3,0
+__export__.stock_quant_86376_8784c958,AMPRU/Stock,AMP-X228,Герметичный корпус 160×160×60,Saleable,16,0
+__export__.stock_quant_86377_f570a35d,AMPRU/Stock,AMP-X232-B,Корпусная кнопка,Saleable,5,0
+__export__.stock_quant_86378_7644e695,AMPRU/Stock,AMP-X232-G,Корпусная кнопка,Saleable,28,0
+__export__.stock_quant_86379_632e7c7e,AMPRU/Stock,AMP-X232-R,Корпусная кнопка,Saleable,9,0
+__export__.stock_quant_86380_cd1ef5be,AMPRU/Stock,AMP-X232-Y,Корпусная кнопка,Saleable,33,0
+__export__.stock_quant_86383_5e15ce8b,AMPRU/Stock,AMP-X237,Уплотнительное кольцо (4 мм),Saleable,13,0
+__export__.stock_quant_86384_755dd5b9,AMPRU/Stock,AMP-X238,Уплотнительное кольцо (5 мм),Saleable,51,0
+__export__.stock_quant_86388_1b46a580,AMPRU/Stock,AMP-X242,Ручка потенциометра 11X10B,Saleable,12,0
+__export__.stock_quant_86389_3fd3a550,AMPRU/Stock,AMP-X243,Ручка потенциометра 17X13HL,Saleable,15,0
+__export__.stock_quant_86391_7443e815,AMPRU/Stock,AMP-X247,Ручка потенциометра MF-A05,Saleable,5,0
+__export__.stock_quant_86392_93085623,AMPRU/Stock,AMP-X248,Ручка потенциометра MF-B02,Saleable,10,0
+__export__.stock_quant_86400_f69e773c,AMPRU/Stock,AMP-X276,Моторизованный шаровой кран CWX-15Q (3/4 дюйма),Saleable,17,0
+__export__.stock_quant_86401_f857de6a,AMPRU/Stock,AMP-X282,Контактные колодки Arduino с ICSP,Saleable,8,2
+__export__.stock_quant_86407_dbab86eb,AMPRU/Stock,AMP-X289,Конструируем роботов на Arduino. Да будет свет!,Saleable,11,0
+__export__.stock_quant_86408_581ca706,AMPRU/Stock,AMP-X290,Конструируем роботов на Arduino. Умный свет,Saleable,7,0
+__export__.stock_quant_86415_a8ac47b1,AMPRU/Stock,AMP-X308,Конструируем роботов на Arduino. Умный замок,Saleable,10,0
+__export__.stock_quant_86418_39689e54,AMPRU/Stock,AMP-X318,Белая светодиодная лента (5 м),Saleable,6,0
+__export__.stock_quant_86425_ff66523d,AMPRU/Stock,AMP-X334,"MicroSD-карта (16 ГБ, класс 10)",Saleable,4,0
+__export__.stock_quant_86433_89859685,AMPRU/Stock,DEV-12923,MicroView OLED,Saleable,11,0
+__export__.stock_quant_86434_8cc14cdb,AMPRU/Stock,DEV-12924,MicroView-USB адаптер,Saleable,14,0
+__export__.stock_quant_86440_55af3743,AMPRU/Stock,DFR0174,XBee-USB адаптер,Saleable,7,0
+__export__.stock_quant_86444_f451ccf5,AMPRU/Stock,FIT0005,Крепление для инфракрасного дальномера,Saleable,12,0
+__export__.stock_quant_86448_f0248b95,AMPRU/Stock,ISBN-0805-4,Заводим BeagleBone,Retirement,17,0
+__export__.stock_quant_86449_90682d06,AMPRU/Stock,ISBN-3566-3,"Arduino, датчики и сети для связи устройств",Saleable,5,0
+__export__.stock_quant_86453_3521f553,AMPRU/Stock,SEN0018,Инфракрасный датчик движения,Saleable,18,18
+__export__.stock_quant_86455_98149bd0,AMPRU/Stock,SEN0101,Сенсор оттенка цвета,Saleable,10,0
+__export__.stock_quant_86456_fd01175d,AMPRU/Stock,SEN0116,Энкодер для шасси miniQ,Saleable,33,20
+__export__.stock_quant_86461_4561bcf0,AMPRU/Stock,USB3100-2,Блок питания Ginzzu GA-3311UW 2×USB / 5 В / 3100 мА,Saleable,25,12
+__export__.stock_quant_86463_47c0dfeb,AMPRU/Stock,WRL-10534,Беспроводной передатчик на 433 МГц,Saleable,11,0
+__export__.stock_quant_86581_503d045a,AMPRU/Stock,NOO-L007,Умная розетка nooLite SRF-1-3000 с дистанционным управлением (3000 Вт),Saleable,5,0
+__export__.stock_quant_86596_66660aaf,AMPRU/Stock,AMP-X188,Припой с флюсом в катушке (200 г),Saleable,11,1
+__export__.stock_quant_86598_1a38bd8f,AMPRU/Stock,AMP-X216,Цветные адресуемые светодиодные модули WS2811,Saleable,110,0
+__export__.stock_quant_86617_52ad1be0,AMPRU/Stock,AMP-X009-B4,Светодиоды 5 мм (4 шт.),Saleable,41,0
+__export__.stock_quant_86618_332b37f9,AMPRU/Stock,AMP-X009-G4,Светодиоды зелёные 5 мм (4 шт.),Saleable,18,0
+__export__.stock_quant_86621_9b7bca36,AMPRU/Stock,AMP-X012,Трёхцветный светодиод,Saleable,14,0
+__export__.stock_quant_86622_7a107974,AMPRU/Stock,AMP-X017,Кнопка тактовая / 6×6 мм / 4 контакта,Saleable,19,0
+__export__.stock_quant_86624_e3328c43,AMPRU/Stock,AMP-X027,Драйвер моторов L293DNE,Saleable,6,0
+__export__.stock_quant_86625_05d29b47,AMPRU/Stock,AMP-X065,Линейный регулятор напряжения L7805,Saleable,11,2
+__export__.stock_quant_86639_631d6d85,AMPRU/Stock,AMP-CC103-10,Конденсаторы керамические 10 нФ (10 шт.),Saleable,8,0
+__export__.stock_quant_86643_042c13b1,AMPRU/Stock,AMP-F005,Сервопривод Feetech FS5109M / 180°,Saleable,5,0
+__export__.stock_quant_86648_2f0369b0,AMPRU/Stock,AMP-M013,Крепления Arduino и Iskra (#Структор),Saleable,13,0
+__export__.stock_quant_86650_2f725305,AMPRU/Stock,AMP-M028,Колёса 62×10 мм и шаровая опора (#Структор),Saleable,10,0
+__export__.stock_quant_86803_43ff86c4,AMPRU/Stock,AMP-X008-B,Breadboard Mini цветной,Saleable,7,0
+__export__.stock_quant_86804_5cbff135,AMPRU/Stock,AMP-X008-C,Breadboard Mini цветной,Saleable,7,0
+__export__.stock_quant_86805_7c7a41fe,AMPRU/Stock,AMP-X100-FLR,Текстовый экран 16×2 / красный с чёрным,Saleable,8,0
+__export__.stock_quant_86806_63f9a07f,AMPRU/Stock,AMP-X245,Ручка потенциометра KN-32,Saleable,21,0
+__export__.stock_quant_86808_22b94d75,AMPRU/Stock,DEV-14438,Arduino Dock R2,Saleable,10,0
+__export__.stock_quant_86827_b2c38d51,AMPRU/Stock,1PK-125T,Пинцет антимагнитный,Saleable,22,0
+__export__.stock_quant_86829_894d51f5,AMPRU/Stock,A000107,USB-Serial адаптер,Retirement,4,4
+__export__.stock_quant_86833_482a698e,AMPRU/Stock,ABX00022,Arduino MKR Vidor 4000,Saleable,7,0
+__export__.stock_quant_86861_e11646f0,AMPRU/Stock,AMP-X298,"Текстовый экран 20×4 / зелёный с чёрным / I²C / 3,3 В ",Saleable,19,0
+__export__.stock_quant_86868_9ea29c71,AMPRU/Stock,AMP-X374-K,Изолента 20м черная,Saleable,9,0
+__export__.stock_quant_86877_cb08e9d8,AMPRU/Stock,DEV-14442,OLED Expansion,Saleable,11,1
+__export__.stock_quant_86878_e0575ca4,AMPRU/Stock,DEV-14445,Servo Expansion,Saleable,13,1
+__export__.stock_quant_86879_bed3dc9b,AMPRU/Stock,NOO-L001-K,"Пульт сенсорный nooLite PG311 (3 канала, чёрный)",Saleable,13,0
+__export__.stock_quant_86880_b473a4d8,AMPRU/Stock,NOO-L001-W,"Пульт сенсорный nooLite PG311 (3 канала, белый)",Saleable,6,0
+__export__.stock_quant_86881_d94f81b2,AMPRU/Stock,NOO-L002-K,"Пульт кнопочный nooLite PG212 (2 канала, чёрный)",Saleable,8,0
+__export__.stock_quant_86882_d0183d5a,AMPRU/Stock,NOO-L002-W,"Пульт кнопочный nooLite PG212 (2 канала, белый)",Saleable,5,0
+__export__.stock_quant_86883_f9100d4e,AMPRU/Stock,NOO-L003-K,"Пульт кнопочный nooLite PG412 (4 канала, чёрный)",Saleable,3,0
+__export__.stock_quant_86884_372aee0a,AMPRU/Stock,NOO-L003-W,"Пульт кнопочный nooLite PG412 (4 канала, белый)",Saleable,7,0
+__export__.stock_quant_86889_33e6ec1a,AMPRU/Stock,NOO-L009,Беспроводной выключатель для электроприводов nooLite SRF-1-1000-R (1000 Вт),Saleable,19,0
+__export__.stock_quant_86890_fe452ea0,AMPRU/Stock,NOO-L010,"Беспроводной выключатель nooLite SRF-10-1000 (6×1000 Вт, 4×600 Вт)",Saleable,5,0
+__export__.stock_quant_86893_18df405f,AMPRU/Stock,NOO-L013,Беспроводной RGB-контроллер nooLite SD-3-60/120 для светодиодной ленты,Saleable,7,0
+__export__.stock_quant_86895_5fb0d18a,AMPRU/Stock,NOO-L015,Контроллер беспроводных выключателей nooLite PRF-64,Saleable,6,0
+__export__.stock_quant_86897_16051217,AMPRU/Stock,NOO-L017,Модуль-приёмопередатчик nooLite МТRF-64,Saleable,4,0
+__export__.stock_quant_87319_1ae48dc0,AMPRU/Stock,AMP-V13354,"Дисплейный модуль E-Ink для Raspberry Pi 2,7” / 264x176 / монохромный",Saleable,3,0
+__export__.stock_quant_87354_db93bfc8,AMPRU/Stock,NOO-L003-C,"Пульт кнопочный nooLite PG412 (4 канала, шампань)",Saleable,8,0
+__export__.stock_quant_87355_f96e7050,AMPRU/Stock,NOO-L002-C,"Пульт кнопочный nooLite PG212 (2 канала, шампань)",Saleable,17,0
+__export__.stock_quant_87463_2be30469,AMPRU/Stock,AMP-X092,Трёхразрядный семисегментный индикатор,Saleable,9,0
+__export__.stock_quant_87466_00facc66,AMPRU/Stock,AMP-X359,Батарейка Robiton AAA,Saleable,58,0
+__export__.stock_quant_87471_2fe4f56b,AMPRU/Stock,AMP-B137,Адаптер Onion Breadboard Dock,Saleable,12,0
+__export__.stock_quant_87478_42b6e47c,AMPRU/Stock,AMP-V13512,Драйвер дисплея Waveshare e-Paper Driver HAT,Saleable,3,1
+__export__.stock_quant_87488_528908b7,AMPRU/Stock,AMP-X416,Электронный замок (54×38×28 мм),Saleable,9,0
+__export__.stock_quant_87490_7044835c,AMPRU/Stock,AMP-X446,Mbee 868Mhz,Saleable,26,0
+__export__.stock_quant_87491_f72d3a3e,AMPRU/Stock,TSX00005,MKR2UNO Adapter Shield ,Saleable,6,0
+__export__.stock_quant_89799_8f680ae7,AMPRU/Stock,AMP-X233,Крышка для тумблера,Saleable,12,1
+__export__.stock_quant_90973_f8c0e192,AMPRU/Stock,AMP-B120,WiFi Slot,Saleable,18,0
+__export__.stock_quant_91997_4be48e2e,AMPRU/Stock,AMP-X348,Штекер RCA Male 3.5mm,Saleable,9,0
+__export__.stock_quant_92010_d284eac5,AMPRU/Stock,AMP-B153,I²C-DAC Mini Jack (Troyka-модуль),Saleable,1,0
+__export__.stock_quant_92013_f3476288,AMPRU/Stock,AMP-V8552,Оптический сканер отпечатков пальцев,Saleable,8,0
+__export__.stock_quant_92425_714c08ca,AMPRU/Stock,AMP-M014,Крепления Troyka (#Структор),Saleable,5,0
+__export__.stock_quant_93133_1bd1284a,AMPRU/Stock,AMP-W029,Кабель USB (A — Type C) - 80cm,Saleable,20,1
+__export__.stock_quant_93134_35b82a99,AMPRU/Stock,AMP-W030,Кабель 1m orange (HDMI-microHDMI),Saleable,109,0
+__export__.stock_quant_93135_2c9a2090,AMPRU/Stock,AMP-W031,Кабель оранжевый 1m  (HDMI-miniHDMI),Saleable,23,0
+__export__.stock_quant_93382_c2c4e9e0,AMPRU/Stock,AMP-B166,Адаптер «мама-папа» v2 (Troyka-модуль),Saleable,16,0
+__export__.stock_quant_93492_8da635e3,AMPRU/Stock,AMP-B110,GPRS Shield v3,Saleable,9,0
+__export__.stock_quant_93887_b21f5e50,AMPRU/Stock,AMP-B084,Troyka Mini IO,Saleable,14,0
+__export__.stock_quant_93888_192ca094,AMPRU/Stock,AMP-M015,Крепления дальномеров (#Структор),Saleable,9,0
+__export__.stock_quant_95712_255c215d,AMPRU/Stock,AMP-B028,Драйвер шагового двигателя (Troyka-модуль),Saleable,40,20
+__export__.stock_quant_98312_cfcdae7c,AMPRU/Stock,AMP-X034,Резисторная сборка 9+1,Saleable,8,0
+__export__.stock_quant_102001_c7219710,AMPRU/Stock,AMP-X286,"Встраиваемый блок питания (5 В, 5000 мА)",Saleable,12,0
+__export__.stock_quant_102449_5adff383,AMPRU/Stock,DEV-14436,Breadboard Dock,Saleable,6,0
+__export__.stock_quant_102842_2cdfb962,AMPRU/Stock,AMP-M044,WiFi Box (#Cтруктор),Saleable,13,0
+__export__.stock_quant_103007_bcf83e84,AMPRU/Stock,NOO-L016,Адаптер nooLite MTRF-64 USB,Saleable,6,0
+__export__.stock_quant_103010_13626a97,AMPRU/Stock,AMP-X131,Инфракрасный дальномер Sharp GP2Y0A41 (4–30 см),Saleable,19,10
+__export__.stock_quant_103011_bf427cc3,AMPRU/Stock,ISBN-978-5-97060-750-3,BBC micro:bit. Официальное руководство пользователя,Saleable,17,0
+__export__.stock_quant_103526_a8906d1d,AMPRU/Stock,AMP-X482,Корпус для Raspberry Pi 4 (LT-4B01 / алюминий / чёрный),Saleable,9,0
+__export__.stock_quant_103527_67bea1f6,AMPRU/Stock,AMP-X483,Корпус для Raspberry Pi 4 (LT-4B01 / алюминий / серебристый),Saleable,9,0
+__export__.stock_quant_103528_0c8cc68c,AMPRU/Stock,AMP-X484,Корпус для Raspberry Pi 4 (LT-4A01 / пластик / белый),Saleable,229,0
+__export__.stock_quant_103529_77722e99,AMPRU/Stock,AMP-X485,Корпус для Raspberry Pi 4 (LT-4A01 / пластик / чёрный),Saleable,17,0
+__export__.stock_quant_103539_c2693b06,AMPRU/Stock,AMP-X495,Корпус для Raspberry Pi 4 с креплением VESA (LT4B17 / акрил / синий),Saleable,6,0
+__export__.stock_quant_103541_13e2a08c,AMPRU/Stock,AMP-X497,Корпус для Raspberry Pi 4 (LT4B16 / акрил / чёрный),Saleable,6,0
+__export__.stock_quant_103542_10a2d292,AMPRU/Stock,AMP-X498,Корпус для Raspberry Pi 4 (LT4B16 / акрил / синий),Saleable,8,0
+__export__.stock_quant_103543_8fa0678e,AMPRU/Stock,AMP-X499,Корпус для Raspberry Pi 4 (LT4B16 / акрил / красный),Saleable,11,0
+__export__.stock_quant_103545_358a0d01,AMPRU/Stock,AMP-X501,Решётка вентилятора (30×30 мм),Saleable,12,0
+__export__.stock_quant_111117_3ea91a1d,AMPRU/Stock,WRL-10532,Беспроводной приёмник на 433 МГц,Saleable,13,0
+__export__.stock_quant_111732_6565d127,AMPRU/Stock,AMP-X449,Официальный корпус для Raspberry Pi 4,Saleable,13,0
+__export__.stock_quant_111904_7b97fc99,AMPRU/Stock,AMP-M047,Алюминиевые колёса (пара),Saleable,5,0
+__export__.stock_quant_112130_c20dc73a,AMPRU/Stock,AMP-B057,Датчик горючих и угарного газов MQ-9 (Troyka-модуль),Saleable,56,0
+__export__.stock_quant_118706_09e99634,AMPRU/Stock,AMP-X141,Модуль беспроводной связи nRF24L01+,Saleable,12,0
+__export__.stock_quant_119799_dde18987,AMPRU/Stock,AMP-X291,Зарядное устройство Digicharger D4,Saleable,89,0
+__export__.stock_quant_119800_f3b598f2,AMPRU/Stock,AMP-X272,Соленоид TAU-0520,Saleable,12,12
+__export__.stock_quant_119807_e99c0118,AMPRU/Stock,AMP-X317,Цветная светодиодная лента (5 м),Saleable,7,0
+__export__.stock_quant_119871_d3fc672f,AMPRU/Stock,USB3100-2-K,Блок питания Ginzzu GA-3311UB 2×USB / 5 В / 3100 мА,Saleable,15,3
+__export__.stock_quant_119921_088e75a1,AMPRU/Stock,AMP-B086-Y,Четырёхразрядный индикатор (Troyka-модуль),Saleable,8,0
+__export__.stock_quant_119927_68365600,AMPRU/Stock,AMP-X127,Резистор изгиба (55 мм),Saleable,26,14
+__export__.stock_quant_121592_de1120df,AMPRU/Stock,AMP-S035,«Интернет вещей» — дополнение набора «Матрёшка»,Saleable,21,14
+__export__.stock_quant_123061_a3737872,AMPRU/Stock,AMP-X371,"Аккумулятор 18650 Ansmann Li-Ion / 3,6 В / 2600 мА·ч с защитой",Retirement,59,0
+__export__.stock_quant_123132_739226f8,AMPRU/Stock,AMP-X284,"Встраиваемый блок питания (5 В, 3000 мА)",Saleable,1,1
+__export__.stock_quant_127136_3bc4956c,AMPRU/Stock,AMP-X312,Наружная сирена (15 Вт),Saleable,10,0
+__export__.stock_quant_127137_994d53ad,AMPRU/Stock,TOL01241P,Осциллограф DSO Nano v3,Saleable,4,0
+__export__.stock_quant_127138_b953f70a,AMPRU/Stock,DFR0077,RS232-TTL адаптер,Saleable,86,1
+__export__.stock_quant_127314_f39cd9fd,AMPRU/Stock,SEN0001,Ультразвуковой дальномер URM37,Saleable,13,0
+__export__.stock_quant_127321_77c95beb,AMPRU/Stock,AMP-X443,Аккумуляторы Robiton AA 2600 мА·ч (2 шт.),Saleable,10,0
+__export__.stock_quant_127322_20e54182,AMPRU/Stock,AMP-X444,	Аккумуляторы Robiton AAA 1050 мА·ч (2 шт.),Saleable,4,0
+__export__.stock_quant_128283_efbe5914,AMPRU/Stock,AMP-B043,Часы реального времени (Troyka-модуль),Saleable,12,5
+__export__.stock_quant_128615_c81b2920,AMPRU/Stock,AMP-S008,Матрёшка X,Saleable,6,0
+__export__.stock_quant_129517_88fddf13,AMPRU/Stock,SEN0170,Анемометр,Saleable,7,0
+__export__.stock_quant_129518_4fcfd2bb,AMPRU/Stock,AMP-X102-FLA,Графический дисплей 128×64,Saleable,5,0
+__export__.stock_quant_129522_0140b179,AMPRU/Stock,AMP-X029,Светодиодная шкала,Saleable,20,0
+__export__.stock_quant_129523_3c79bf1c,AMPRU/Stock,AMP-F004,Сервопривод Feetech FS5106B / 180°,Saleable,20,0
+__export__.stock_quant_130059_82de2237,AMPRU/Stock,AMP-B072,Датчик приближения и освещённости (Troyka-модуль),Saleable,10,0
+__export__.stock_quant_130093_ae4ada9c,AMPRU/Stock,AMP-X537,Светодиодные модули RGB WS2811 / 20×3 LED,Saleable,7,0
+__export__.stock_quant_130237_4fdb771b,AMPRU/Stock,AMP-X008-G,Breadboard Mini цветной,Saleable,14,0
+__export__.stock_quant_130238_a86b2700,AMPRU/Stock,AMP-X414,IoT-платформа ESP-WROOM-32 DevKit v1,Saleable,1,1
+__export__.stock_quant_132421_2c7082ca,AMPRU/Stock,AMP-X502,	Переходник Micro-USB / Type-C (чёрный),Saleable,25,0
+__export__.stock_quant_132422_4be2217b,AMPRU/Stock,AMP-X503,Переходник Micro-USB / Type-C (белый),Saleable,9,0
+__export__.stock_quant_133619_b39fb240,AMPRU/Stock,AMP-B052,Датчик природного газа MQ-4 (Troyka-модуль),Saleable,26,0
+__export__.stock_quant_133620_6fbfb217,AMPRU/Stock,AMP-B054,Датчик сжиженного углеводородного газа MQ-6 (Troyka-модуль),Saleable,8,0
+__export__.stock_quant_133621_c819f17b,AMPRU/Stock,DFR0066,Датчик температуры и влажности SHT1x,Retirement,7,0
+__export__.stock_quant_134037_da1b39d8,AMPRU/Stock,AMP-S016,Микроник,Saleable,9,4
+__export__.stock_quant_134425_09ca5f18,AMPRU/Stock,AMP-B103,Ползунковый потенциометр (Troyka-модуль),Saleable,15,0
+__export__.stock_quant_135827_59bb9867,AMPRU/Stock,AMP-X540,Антистатический браслет,Saleable,13,0
+__export__.stock_quant_136470_d1bde08e,AMPRU/Stock,FIT0004,Соединительные скобы,Saleable,12,0
+__export__.stock_quant_136917_1ed0703c,AMPRU/Stock,FIT0032,Крепление для инфракрасного датчика препятствий,Saleable,16,0
+__export__.stock_quant_137450_96989de4,AMPRU/Stock,AMP-B063,Датчик тока (Troyka-модуль),Saleable,21,16
+__export__.stock_quant_137453_d0e1d623,AMPRU/Stock,AMP-B123,Цифровой метеодатчик (Troyka-модуль),Saleable,21,1
+__export__.stock_quant_137552_8ef7a525,AMPRU/Stock,AMP-M029,"Втулки на вал мотора (⌀ 3 мм, пара)",Saleable,5,0
+__export__.stock_quant_137556_63e39859,AMPRU/Stock,AMP-B071,Troyka Shield LP,Saleable,13,0
+__export__.stock_quant_137557_1a9d66f4,AMPRU/Stock,AMP-B099,Монохромная LED матрица 8×8 (Troyka-модуль),Saleable,5,0
+__export__.stock_quant_138465_d5874387,AMPRU/Stock,AMP-X321,"Цветной сенсорный дисплей Nextion Enhanced 2,8” / 320×240",Saleable,38,9
+__export__.stock_quant_139550_70be1bc7,AMPRU/Stock,AMP-B062-Y,Светодиод 5 мм (Troyka-модуль),Saleable,12,0
+__export__.stock_quant_140609_5c405214,AMPRU/Stock,AMP-B107,Iskra JS Mini,Saleable,54,0
+__export__.stock_quant_140610_e5f13f25,AMPRU/Stock,AMP-B077-R,Кнопка со светодиодом (Troyka-модуль),Saleable,23,0
+__export__.stock_quant_140613_230beaac,AMPRU/Stock,AMP-B142,Screw Pad (Troyka-модуль),Saleable,11,0
+__export__.stock_quant_142429_2ab707c3,AMPRU/Stock,ABX00032,Arduino Nano 33 IoT,Saleable,1,1
+__export__.stock_quant_142882_41628453,AMPRU/Stock,AMP-B074,Аудиовход mini-jack (Troyka-модуль),Saleable,8,0
+__export__.stock_quant_142944_edf3e1c5,AMPRU/Stock,AMP-X129,Инфракрасный дальномер Sharp GP2Y0A021 (10–80 см),Saleable,16,0
+__export__.stock_quant_143030_4848c705,AMPRU/Stock,AMP-S042,Робожук,Saleable,102,83
+__export__.stock_quant_143629_aad82291,AMPRU/Stock,AMP-X003,Breadboard Half,Saleable,8,1
+__export__.stock_quant_144219_01efd89a,AMPRU/Stock,NOO-L005,Пульт nooLite PK315 под настенный выключатель (3 канала),Saleable,17,0
+__export__.stock_quant_144220_6f300626,AMPRU/Stock,AMP-B083,MIDI выход (Troyka-модуль),Saleable,22,0
+__export__.stock_quant_146568_5bf3296d,AMPRU/Stock,AMP-FR16-298,"Мотор 12 мм (12 В, 80 об/мин)",Saleable,15,0
+__export__.stock_quant_147143_8c1ed51d,AMPRU/Stock,AMP-FR30-298,"Мотор 12 мм (15 В, 80 об/мин)",Retirement,27,0
+__export__.stock_quant_147144_75cfe6e4,AMPRU/Stock,AMP-FR30-1000,"Мотор 12 мм (15 В, 20 об/мин)",Retirement,18,0
+__export__.stock_quant_147451_43661bb9,AMPRU/Stock,AMP-W024-3,Разъём JST SH-3 с проводами,Saleable,2,0
+__export__.stock_quant_147511_213d8f34,AMPRU/Stock,AMP-X042,"Штекер питания 2,1 мм",Saleable,33,0
+__export__.stock_quant_147550_4fc2acdf,AMPRU/Stock,AMP-B161,Uno Slot,Saleable,54,0
+__export__.stock_quant_148154_35b597af,AMPRU/Stock,AMP-B162,Адаптер Slot Connector с клеммником,Saleable,38,0
+__export__.stock_quant_148231_7d74e44a,AMPRU/Stock,AMP-M035,Slot Box XL (#Структор),Saleable,10,0
+__export__.stock_quant_149861_8df46d72,AMPRU/Stock,AMP-X229,Espruino Pico (без ног),Saleable,14,2
+__export__.stock_quant_150099_eea47a85,AMPRU/Stock,AMP-X157,Погружная помпа с трубкой,Saleable,25,1
+__export__.stock_quant_150321_fdcc4002,AMPRU/Stock,AMP-X142-U2,Ультразвуковой дальномер HC-SR04 ,Saleable,47,20
+__export__.stock_quant_150397_be530489,AMPRU/Stock,AMP-B117,Bluetooth Low Energy (Troyka-модуль),Saleable,15,0
+__export__.stock_quant_150943_a951f1ab,AMPRU/Stock,AMP-X534,Espruino Pixl.js,Saleable,13,12
+__export__.stock_quant_150944_6aeaddd2,AMPRU/Stock,AMP-X535,Espruino MDBT42Q Breakout (без ног),Saleable,49,2
+__export__.stock_quant_154628_b3e1be86,AMPRU/Stock,AMP-X542,Espruino Pico (с ногами),Saleable,14,0
+__export__.stock_quant_157504_573b156e,AMPRU/Stock,AMP-X269-B,STEMTera Breadboard Black,Retirement,4,0
+__export__.stock_quant_157991_f74ed5ea,AMPRU/Stock,AMP-X310-W,Кабель с вилкой белый,Saleable,4,0
+__export__.stock_quant_158820_400dcf32,AMPRU/Stock,AMP-S056,Малина v4 (4 ГБ),Saleable,45,7
+__export__.stock_quant_159154_c4d1c7d8,AMPRU/Stock,AMP-B088,"Power Shield (Li-Ion, 2000 мА·ч)",Saleable,11,0
+__export__.stock_quant_160762_7235e191,AMPRU/Stock,AMP-B087,Датчик шума (Troyka-модуль),Saleable,42,20
+__export__.stock_quant_165849_a4c92bfa,AMPRU/Stock,AMP-X486,Корпус для Raspberry Pi 4 (LT-4A01 / пластик / прозрачный),Saleable,7,0
+__export__.stock_quant_166361_6aa394fa,AMPRU/Stock,AMP-X349,Гнездо под штекер 3.5mm,Saleable,10,0
+__export__.stock_quant_166834_dd878af7,AMPRU/Stock,AMP-X100-YLG,Текстовый экран 16×2 / зелёный с чёрным,Saleable,12,0
+__export__.stock_quant_168708_b309d290,AMPRU/Stock,NOO-L008,Беспроводной выключатель nooLite SRF-1-3000-M (3000 Вт),Saleable,8,0
+__export__.stock_quant_170605_032d1916,AMPRU/Stock,AMP-V15203,Камера для Raspberry Pi с ИК-фильтром,Saleable,1,0
+__export__.stock_quant_170607_a6e35c53,AMPRU/Stock,DFR0330,Клавиатура Qwerty Pad,Saleable,1,0
+__export__.stock_quant_170608_4227178e,AMPRU/Stock,AMP-V13857,Цветной сенсорный HDMI-дисплей для Raspberry Pi 1024×600 / 7” в корпусе,Saleable,5,0
+__export__.stock_quant_170751_a1b44cdc,AMPRU/Stock,AMP-B156,Двухканальный H-мост (Troyka-модуль),Saleable,9,0
+__export__.stock_quant_170752_dd507408,AMPRU/Stock,AMP-B191,Breadboard Power Supply,Saleable,12,0
+__export__.stock_quant_170774_d93386d5,AMPRU/Stock,AMP-B189,Термопара K-типа (Troyka-модуль),Saleable,42,0
+__export__.stock_quant_174849_d25b71c1,AMPRU/Stock,AMP-F008,Сервопривод FS5519M,Saleable,5,0
+__export__.stock_quant_175553_f0b33843,AMPRU/Stock,AMP-B094,Датчик углекислого газа MQ-135 (Troyka-модуль),Saleable,31,0
+__export__.stock_quant_178935_3f0aad37,AMPRU/Stock,AMP-X492,Корпус для Raspberry Pi 4 (LT-4B05 / акрил / цветной),Saleable,6,0
+__export__.stock_quant_178936_d4432e0d,AMPRU/Stock,AMP-X487,Корпус для Raspberry Pi 4 с кулером (LT-4B01 / алюминий / чёрный),Saleable,5,0
+__export__.stock_quant_180733_84f0457a,AMPRU/Stock,AMP-X152,Жидкий флюс во флаконе с кисточкой,Saleable,5,1
+__export__.stock_quant_180735_7a1b7712,AMPRU/Stock,NOO-L006,"Пульт сенсорный nooLite PU411 (4 канала, белый)",Saleable,5,0
+__export__.stock_quant_181051_534b6412,AMPRU/Stock,AMP-X239,Уплотнительное кольцо (6 мм),Saleable,116,0
+__export__.stock_quant_183860_b3929d98,AMPRU/Stock,ABX00035,Arduino Nano 33 BLE Sense,Saleable,2,2
+__export__.stock_quant_183874_d15bf3a1,AMPRU/Stock,AMP-X493,Корпус для Raspberry Pi 4 (LT-4B05 / акрил / прозрачный),Saleable,9,0
+__export__.stock_quant_184403_316d34d3,AMPRU/Stock,AMP-B010,Реле (Troyka-модуль),Saleable,6,0
+__export__.stock_quant_186184_531468c4,AMPRU/Stock,AMP-M006,Нейлоновые стойки «мама-папа» М3×8 (4 шт.),Saleable,35,0
+__export__.stock_quant_188044_6db8c89b,AMPRU/Stock,AMP-X310-K,Кабель с вилкой чёрный,Saleable,5,0
+__export__.stock_quant_189168_9ae6285e,AMPRU/Stock,AMP-B113,Сборка силовых ключей N-FET (Zelo-модуль),Saleable,22,0
+__export__.stock_quant_196161_34d2f13f,AMPRU/Stock,AMP-B068,Troyka Pad 1×2 (Troyka-модуль),Saleable,23,0
+__export__.stock_quant_198790_6c7a8883,AMPRU/Stock,AMP-B134,OLED-дисплей (Troyka-модуль),Saleable,24,0
+__export__.stock_quant_200329_c58d905a,AMPRU/Stock,AMP-X488,Корпус для Raspberry Pi 4 с кулером (LT-4B01 / алюминий / серебристый),Saleable,8,0
+__export__.stock_quant_200653_ba7baff5,AMPRU/Stock,AMP-X496,Корпус для Raspberry Pi 4 с креплением VESA (LT4B17 / акрил / красный),Saleable,14,0
+__export__.stock_quant_200708_812c360a,AMPRU/Stock,SEN0019,Инфракрасный датчик препятствий,Saleable,10,0
+__export__.stock_quant_200736_62c00742,AMPRU/Stock,AMP-X249-G,Ручка потенциометра RR4811-G (зелёная),Saleable,17,0
+__export__.stock_quant_203120_00932dde,AMPRU/Stock,DFR0258,RS-232 Shield,Saleable,5,1
+__export__.stock_quant_204920_39c420e2,AMPRU/Stock,AMP-B064,Приёмопередатчик RS-485 (Troyka-модуль),Saleable,1,1
+__export__.stock_quant_207293_1e549aeb,AMPRU/Stock,AMP-B017,Troyka Shield,Saleable,51,0
+__export__.stock_quant_207556_ab2cd53d,AMPRU/Stock,AMP-X222,Канцелярский нож Attache Economy (9 мм),Saleable,43,0
+__export__.stock_quant_208350_8d79b1d9,AMPRU/Stock,AMP-W007,Соединительные провода «мама-папа»,Saleable,11,5
+__export__.stock_quant_208351_524fca99,AMPRU/Stock,AMP-X314,Adapter DEXP HDMI,Saleable,11,0
+__export__.stock_quant_208912_301a97a6,AMPRU/Stock,AMP-W024-2,Разъём JST SH-2 с проводами,Saleable,130,0
+__export__.stock_quant_209724_a75c6be7,AMPRU/Stock,AMP-B138,AC/DC преобразователь «5 В 600 мА» (Troyka-модуль),Saleable,4,0
+__export__.stock_quant_210214_9f9221aa,AMPRU/Stock,AMP-E033,Официальный корпус для Raspberry Pi Zero,Saleable,16,0
+__export__.stock_quant_210215_7e89ea94,AMPRU/Stock,AMP-E034,ТВ-тюнер DVB-T2 Raspberry Pi TV HAT,Saleable,6,1
+__export__.stock_quant_210557_c51bd047,AMPRU/Stock,DFR0299,MP3-плеер DFPlayer Mini,Saleable,4,4
+__export__.stock_quant_213249_adb870b7,AMPRU/Stock,AMP-X296,Вентилятор охлаждения (30×30×10 мм),Retirement,1,1
+__export__.stock_quant_213252_ae49c2d9,AMPRU/Stock,AMP-X015,Транзистор полевой MOSFET,Saleable,19,1
+__export__.stock_quant_213921_db004ff9,AMPRU/Stock,AMP-B182,Ёмкостный датчик влажности почвы,Saleable,17,0
+__export__.stock_quant_215062_ffdd2803,AMPRU/Stock,AMP-X541,"Аккумулятор 18650 LGDBHE41865 Li-Ion / 3,7 В / 2500 мА·ч",Saleable,67,0
+__export__.stock_quant_215063_94910f3f,AMPRU/Stock,AMP-X553-EU,Блок питания Amperka USB (EU) / 5 В / 3000 мА,Saleable,10,0
+__export__.stock_quant_220473_981fe44b,AMPRU/Stock,AMP-B009,Кнопка (Troyka-модуль),Saleable,20,2
+__export__.stock_quant_222123_a2d4f409,AMPRU/Stock,AMP-B096,Расширитель GPIO-портов (Troyka-модуль),Saleable,50,0
+__export__.stock_quant_225324_0b7bf149,AMPRU/Stock,NOO-L014,"Беспроводной уличный выключатель nooLite SR-2-1000 (IP65, 2×1000 Вт)",Saleable,10,0
+__export__.stock_quant_227321_f1c4f369,AMPRU/Stock,OMV-001,Камера машинного зрения OpenMV H7,Retirement,1,1
+__export__.stock_quant_227322_6665c651,AMPRU/Stock,OMV-002,Корпус для OpenMV H7,Retirement,4,0
+__export__.stock_quant_227323_62c8f8ab,AMPRU/Stock,OMV-003,Плата расширения OpenMV LCD Shield,Saleable,12,6
+__export__.stock_quant_227324_c748877c,AMPRU/Stock,OMV-004,Плата расширения OpenMV Wireless TV Shield,Saleable,9,0
+__export__.stock_quant_227326_a038572d,AMPRU/Stock,OMV-006,ИК-объектив OpenMV IR Lens,Saleable,5,0
+__export__.stock_quant_227328_2506be56,AMPRU/Stock,OMV-008,Объектив OpenMV Super Telephoto Lens,Saleable,6,0
+__export__.stock_quant_227329_ea739a31,AMPRU/Stock,OMV-009,Объектив OpenMV Ultra Wide Angle Lens,Saleable,8,0
+__export__.stock_quant_227330_70928525,AMPRU/Stock,OMV-010,Удлинительный шлейф OpenMV,Saleable,7,1
+__export__.stock_quant_229476_d94ea29b,AMPRU/Stock,ISBN-0280-6,Заводим Raspberry Pi,Saleable,5,0
+__export__.stock_quant_229477_e93f7b59,AMPRU/Stock,AMP-B041,Акселерометр (Troyka-модуль),Saleable,23,0
+__export__.stock_quant_229669_1d04585d,AMPRU/Stock,AMP-B112,Сборка силовых ключей P-FET (Zelo-модуль),Saleable,42,0
+__export__.stock_quant_230919_6b92f9fe,AMPRU/Stock,AMP-H006,"microSD-карта с ОС Raspbian (16 ГБ, Класс 10)",Saleable,34,0
+__export__.stock_quant_233779_3f5dd8b3,AMPRU/Stock,AMP-X584,PLA-пластик FDplast / красный,Saleable,6,0
+__export__.stock_quant_233780_a0b84595,AMPRU/Stock,AMP-X585,PLA-пластик FDplast / синий,Saleable,9,0
+__export__.stock_quant_233781_1942df1b,AMPRU/Stock,AMP-X586, PLA-пластик FDplast / фиолетовый,Saleable,6,0
+__export__.stock_quant_233783_a5effb23,AMPRU/Stock,AMP-X588,PETG-пластик FDplast / зелёный,Saleable,7,0
+__export__.stock_quant_234344_a04e9ca2,AMPRU/Stock,AMP-B196,Барометр v2 (Troyka-модуль),Saleable,31,21
+__export__.stock_quant_235261_1b0d4822,AMPRU/Stock,AMP-X417,Электронный замок (27×28×18 мм),Saleable,7,2
+__export__.stock_quant_235676_a627ac51,AMPRU/Stock,TEL0023,Bluetooth Bee,Saleable,15,0
+__export__.stock_quant_238135_47591b29,AMPRU/Stock,AMP-V13380,"Экран E-Ink 7,5” / 640×384 / красный v1",Retirement,1,0
+__export__.stock_quant_238137_2bcc8bf7,AMPRU/Stock,AMP-V13186,"Экран E-Ink 4,2” / 400×300 / монохромный",Saleable,8,0
+__export__.stock_quant_238140_046c6e74,AMPRU/Stock,AMP-V14266,"Экран E-Ink 1,54” / 152×152 / жёлтый",Retirement,5,0
+__export__.stock_quant_238141_b14cd788,AMPRU/Stock,AMP-V14144,"Экран E-Ink 7,5” / 640×384 / жёлтый ",Saleable,8,0
+__export__.stock_quant_238142_2fe53fa4,AMPRU/Stock,AMP-V14411,"Экран E-Ink 5,83” / 600×448 / красный v1",Retirement,9,0
+__export__.stock_quant_238143_5c1f562e,AMPRU/Stock,AMP-V14188,"Экран E-Ink 4,2” / 400×300 / жёлтый ",Saleable,15,0
+__export__.stock_quant_238144_35216802,AMPRU/Stock,AMP-V14410,"Экран E-Ink 5,83” / 600×448 / монохромный v1",Retirement,5,0
+__export__.stock_quant_238145_67715eb9,AMPRU/Stock,AMP-V14412,"Экран E-Ink 5,83” / 600×448 / жёлтый ",Saleable,5,0
+__export__.stock_quant_238146_be2e7cbf,AMPRU/Stock,AMP-V13448,"Дисплейный модуль E-Ink для Raspberry Pi 2,13” / 212×104 / красный",Saleable,8,0
+__export__.stock_quant_239388_2ef240c2,AMPRU/Stock,AMP-X327,Светодиодная RGB матрица 8×8,Saleable,4,0
+__export__.stock_quant_239391_142f8610,AMPRU/Stock,AMP-E036,Официальная клавиатура Raspberry Pi,Saleable,9,0
+__export__.stock_quant_239393_68104a04,AMPRU/Stock,AMP-V14226,"Дисплейный модуль E-Ink для Raspberry Pi 2,13” / 212×104 / жёлтый",Retirement,16,0
+__export__.stock_quant_242850_3b30b50b,AMPRU/Stock,AMP-X619,Платформа для робота 4tronix Bit:Bot XL,Saleable,14,0
+__export__.stock_quant_242851_77e4503b,AMPRU/Stock,AMP-X618,Платформа для робота 4tronix MiniBit,Saleable,8,0
+__export__.stock_quant_242852_f0dbb5c4,AMPRU/Stock,PIM485,Умная колонка Pimoroni Pirate Audio,Saleable,9,0
+__export__.stock_quant_242853_4af02ce7,AMPRU/Stock,PIM482,Усилитель наушников Pimoroni Pirate Audio,Saleable,7,0
+__export__.stock_quant_242854_ecd97ac6,AMPRU/Stock,AMP-X617,Датчик влажности Proto-PIC,Saleable,13,0
+__export__.stock_quant_242856_c3e3bd3c,AMPRU/Stock,PIM511,Адаптер Pimoroni HAT Hacker HAT,Saleable,13,0
+__export__.stock_quant_242857_52471664,AMPRU/Stock,PIM401,Сенсорная клавиатура Pimoroni touch:bit,Saleable,4,0
+__export__.stock_quant_242858_8226ad78,AMPRU/Stock,PIM095,Pimoroni Piano HAT,Saleable,5,0
+__export__.stock_quant_242859_9a8f2e07,AMPRU/Stock,PIM498,Светодиодная матрица Pimoroni Unicorn HAT Mini,Saleable,11,0
+__export__.stock_quant_242861_bdfcc021,AMPRU/Stock,AMP-X612,Чехол Kitty Case для micro:bit / оранжевый,Saleable,10,0
+__export__.stock_quant_242862_7df13415,AMPRU/Stock,AMP-X611,Pi Zero USB Stem,Saleable,15,0
+__export__.stock_quant_242864_0e1b8baa,AMPRU/Stock,AMP-X621,Светодиодное лицо робота 4tronix BitFace Breakout,Saleable,6,0
+__export__.stock_quant_242865_123a6161,AMPRU/Stock,KIT-5645,Светодиодная матрица Kitronik ZIP Tile,Saleable,17,0
+__export__.stock_quant_242866_d67018de,AMPRU/Stock,AMP-X615,Модуль питания для micro:bit,Saleable,7,0
+__export__.stock_quant_242867_869b3c94,AMPRU/Stock,AMP-X614,Драйвер сервоприводов 4tronix servo:bit,Saleable,12,0
+__export__.stock_quant_242868_0865b799,AMPRU/Stock,PIM353,Светодиодная матрица Pimoroni scroll:bit,Saleable,6,0
+__export__.stock_quant_242869_ef80de53,AMPRU/Stock,AMP-X620,Ультразвуковой дальномер 4tronix Ultrasonic Breakout,Saleable,4,0
+__export__.stock_quant_242871_720e31bb,AMPRU/Stock,KIT-5672,Светодиодный диск Kitronik ZIP Halo HD,Saleable,15,0
+__export__.stock_quant_242873_d439ed9e,AMPRU/Stock,PIM360,Умная перчатка Pimoroni MINI.MU,Saleable,10,0
+__export__.stock_quant_243331_657fccc7,AMPRU/Stock,AMP-X373,Губка для очистки жала,Saleable,6,1
+__export__.stock_quant_245522_a25fb7ab,AMPRU/Stock,AMP-B116,Инфракрасный датчик движения (Zelo-модуль),Saleable,17,0
+__export__.stock_quant_247901_952b10af,AMPRU/Stock,AMP-S053,Драгстер (Расширенный набор),Saleable,2,0
+__export__.stock_quant_248060_9a441200,AMPRU/Stock,AMP-W023-2,Разъём JST PH-2 с проводами,Saleable,2,1
+__export__.stock_quant_248808_952be981,AMPRU/Stock,AMP-X589,PLA-пластик FDplast / оранжевый,Saleable,6,0
+__export__.stock_quant_251851_ea8b0373,AMPRU/Stock,AMP-X271,"Цветной графический TFT-экран 220×176 / 2,2”",Retirement,4,0
+__export__.stock_quant_254006_802b30eb,AMPRU/Stock,AMP-B125,Troyka Slot Shield v2,Saleable,16,2
+__export__.stock_quant_254007_91eb19e5,AMPRU/Stock,AMP-B145,USB-pad Troyka-модуль,Saleable,6,0
+__export__.stock_quant_254295_dbf3fae4,AMPRU/Stock,AMP-X480,Калибровочный раствор pH 7.01 ,Materials Kits,11,0
+__export__.stock_quant_254690_635ae86f,AMPRU/Stock,AMP-X572,"Сопло 0,6 мм",Saleable,7,0
+__export__.stock_quant_254699_c3c7788f,AMPRU/Stock,AMP-X577,Хотенд в сборе с обдувом для CR-10 V2 / V3,Retirement,3,0
+__export__.stock_quant_255245_d748663d,AMPRU/Stock,AMP-B170,Датчик качества воздуха CCS811 в корпусе,Saleable,13,0
+__export__.stock_quant_255246_54542de1,AMPRU/Stock,AMP-FR16-150,"Мотор 12 мм (12 В, 160 об/мин)",Saleable,8,0
+__export__.stock_quant_255247_38c83a77,AMPRU/Stock,AMP-X539,Вилка штыревая / угловая / 1×40,Saleable,9,1
+__export__.stock_quant_256122_185fd44e,AMPRU/Stock,AMP-X013,Вилка штыревая / прямая / 1×40,Saleable,26,9
+__export__.stock_quant_256638_4ea80198,AMPRU/Stock,AMP-X567,Хотенд в сборе для CR-10 V2 / V3,Retirement,3,0
+__export__.stock_quant_257085_3a82d755,AMPRU/Stock,AMP-X592,Зубчатый ремень GT2 / 10 мм / 3 м,Retirement,9,0
+__export__.stock_quant_257086_99f76e00,AMPRU/Stock,AMP-X593,Тефлоновая трубка PTFE / 4 мм / 1 м,Saleable,9,0
+__export__.stock_quant_258322_61a05384,AMPRU/Stock,AMP-X050,"Патч-корд витой пары (0,5 м)",Saleable,13,0
+__export__.stock_quant_261537_0f41898c,AMPRU/Stock,AMP-X300,"Текстовый экран 16×2 / зелёный с чёрным / I²C / 3,3 В",Saleable,12,0
+__export__.stock_quant_264382_a76d79a2,AMPRU/Stock,AMP-X442,Трасса для Драгстера,Saleable,5,0
+__export__.stock_quant_270781_9b2cb628,AMPRU/Stock,AMP-B098,Силовой ключ v3 (Troyka-модуль),Saleable,11,1
+__export__.stock_quant_270782_42d687cd,AMPRU/Stock,AMP-B159,Power Cell (Troyka-модуль),Saleable,7,1
+__export__.stock_quant_274136_adf46844,AMPRU/Stock,AMP-X035-5,Транзисторы биполярные ВС 337-40 (5 шт.),Saleable,38,6
+__export__.stock_quant_274475_bcd29531,AMPRU/Stock,AMP-B122,Расширитель портов I²C (Troyka-модуль),Saleable,11,0
+__export__.stock_quant_276170_fb689edd,AMPRU/Stock,AMP-S010-BI,Матрёшка Z (Iskra Uno),Saleable,52,1
+__export__.stock_quant_277840_e35e334e,AMPRU/Stock,AMP-X543,Espruino MDBT42Q Breakout (с ногами),Saleable,8,0
+__export__.stock_quant_279611_ab7b43ff,AMPRU/Stock,AMP-X251,Джампер (10 шт.),Saleable,70,0
+__export__.stock_quant_286687_05acb3bb,AMPRU/Stock,AMP-W016,"Монтажный провод НВ-4 (0,2 мм², 10 м, жёлтый)",Saleable,24,0
+__export__.stock_quant_286712_17ce5112,AMPRU/Stock,AMP-X220,Батарейный отсек 3×2 AAА,Saleable,15,0
+__export__.stock_quant_293092_4a077cc8,AMPRU/Stock,AMP-X008-R,Breadboard Mini цветной,Saleable,22,0
+__export__.stock_quant_293332_08614b32,AMPRU/Stock,AMP-X587,PLA-пластик FDplast / жёлтый,Saleable,8,0
+__export__.stock_quant_293935_65da7785,AMPRU/Stock,AMP-X143,Bluetooth-модуль HC-06,Saleable,6,0
+__export__.stock_quant_294568_0b2f3946,AMPRU/Stock,AMP-FR16-50,"Мотор 12 мм (12 В, 600 об/мин)",Saleable,2,0
+__export__.stock_quant_296047_3c9c5f8d,AMPRU/Stock,AMP-B069,Troyka Pad 1×1 (Troyka-модуль),Saleable,9,0
+__export__.stock_quant_296126_12a1e69c,AMPRU/Stock,AMP-FR12-100,"Мотор 12 мм (9 В, 300 об/мин)",Retirement,4,0
+__export__.stock_quant_296371_6e5d40fb,AMPRU/Stock,AMP-X573,"Сопло 1,0 мм",Saleable,20,0
+__export__.stock_quant_297780_b84b7eca,AMPRU/Stock,AMP-B199,Iskra Uno,Saleable,50,1
+__export__.stock_quant_301794_790ae5bd,AMPRU/Stock,AMP-X681,Тумблер MTS-102,Saleable,8,0
+__export__.stock_quant_302766_942c2245,AMPRU/Stock,AMP-X051,Диод Зенера (Стабилитрон),Saleable,15,0
+__export__.stock_quant_302842_546ee142,AMPRU/Stock,AMP-B128,Модуль подтяжки (Troyka-модуль),Saleable,6,0
+__export__.stock_quant_304099_253b831f,AMPRU/Stock,AMP-X205,Четырёхкнопочная клавиатура,Saleable,11,0
+__export__.stock_quant_304178_1d800635,AMPRU/Stock,AMP-X202,Датчик потока воды,Saleable,7,0
+__export__.stock_quant_306408_5a7f7796,AMPRU/Stock,AMP-X008-W,Breadboard Mini Белая,Saleable,10,0
+__export__.stock_quant_308655_75f32f7b,AMPRU/Stock,AMP-X623,PETG-пластик eSUN / жёлтый,Saleable,5,0
+__export__.stock_quant_308656_d9811422,AMPRU/Stock,AMP-X624,PETG-пластик eSUN / зелёный,Saleable,18,0
+__export__.stock_quant_308657_7e106d1a,AMPRU/Stock,AMP-X625,PETG-пластик eSUN / красный,Saleable,8,0
+__export__.stock_quant_308659_2b96a743,AMPRU/Stock,AMP-X627,PETG-пластик eSUN / оранжевый,Saleable,1,0
+__export__.stock_quant_308660_f838c8d3,AMPRU/Stock,AMP-X629,PETG-пластик eSUN / синий,Saleable,4,0
+__export__.stock_quant_308662_3356ab35,AMPRU/Stock,AMP-X630,PETG-пластик eSUN / фиолетовый,Saleable,5,0
+__export__.stock_quant_308663_90c4d318,AMPRU/Stock,AMP-X632,PLA-пластик eSUN / белый,Saleable,2,0
+__export__.stock_quant_308664_ec12abd1,AMPRU/Stock,AMP-X633,PLA-пластик eSUN / жёлтый,Saleable,2,0
+__export__.stock_quant_308665_89d85020,AMPRU/Stock,AMP-X634,PLA-пластик eSUN / коричневый,Saleable,5,0
+__export__.stock_quant_308666_3f5657bc,AMPRU/Stock,AMP-X635,PLA-пластик eSUN / красный,Saleable,6,0
+__export__.stock_quant_308667_0ffc6b75,AMPRU/Stock,AMP-X636,PLA-пластик eSUN / оранжевый,Saleable,6,0
+__export__.stock_quant_308669_c2569e73,AMPRU/Stock,AMP-X639,PLA-пластик eSUN / синий,Saleable,10,0
+__export__.stock_quant_308670_b989abfd,AMPRU/Stock,AMP-X640,PLA-пластик eSUN / сосновый,Saleable,6,0
+__export__.stock_quant_308671_85e1d919,AMPRU/Stock,AMP-X641,PLA-пластик eSUN / фиолетовый,Saleable,6,0
+__export__.stock_quant_308672_c74d1b36,AMPRU/Stock,AMP-X680,PLA-пластик eSUN / оливковый,Saleable,5,0
+__export__.stock_quant_310509_17fa1531,AMPRU/Stock,AMP-X524,"Аккумулятор ET ICR16340C Li-Ion / 3,7 В / 700 мА·ч",Saleable,2,1
+__export__.stock_quant_311876_2bad358f,AMPRU/Stock,AMP-X009-R4,Светодиоды красные 5 мм (4 шт.),Saleable,18,0
+__export__.stock_quant_313861_96f36ef3,AMPRU/Stock,AMP-X649,Шпатель (75 мм),Saleable,34,0
+__export__.stock_quant_316556_1cacdfc5,AMPRU/Stock,AMP-P003-AS,3D-принтер Flying Bear Ghost 5 (assembled),New,1,0
+__export__.stock_quant_319845_ec2080ed,AMPRU/Stock,AMP-X104,Блокнот хакера,Saleable,59,0
+__export__.stock_quant_320612_bab31425,AMPRU/Stock,BOB-13988, Адаптер micro:bit Breakout,Retirement,2,0
+__export__.stock_quant_320931_7cfae9b8,AMPRU/Stock,AMP-X026-Y,Кнопка тактовая с колпачком,Saleable,18,0
+__export__.stock_quant_321977_ff7f71dd,AMPRU/Stock,AMP-X322,Breadboard Double,Retirement,8,0
+__export__.stock_quant_322113_c60982ab,AMPRU/Stock,AMP-X197,Breadboard Micro 2×4,Saleable,14,0
+__export__.stock_quant_323519_df1f0137,AMPRU/Stock,AMP-B200-RU,Семисегментный индикатор SegM8,Saleable,5,0
+__export__.stock_quant_324257_6387a9e4,AMPRU/Stock,AMP-B201,Multiservo Shield v2,Saleable,6,0
+__export__.stock_quant_324421_8645503a,AMPRU/Stock,AMP-R47R-10,Резисторы 47 Ом (10 шт.),Saleable,11,1
+__export__.stock_quant_324422_8d585205,AMPRU/Stock,AMP-R100R-10,Резисторы 100 Ом (10 шт.),Saleable,6,0
+__export__.stock_quant_324423_1b8db3a6,AMPRU/Stock,AMP-R120R-10,Резисторы 120 Ом (10 шт.),Saleable,5,0
+__export__.stock_quant_324424_22764f4c,AMPRU/Stock,AMP-R150R-10,Резисторы 150 Ом (10 шт.),Saleable,9,0
+__export__.stock_quant_324425_89117ad0,AMPRU/Stock,AMP-R240R-10,Резисторы 240 Ом (10 шт.),Saleable,8,0
+__export__.stock_quant_324426_509922b2,AMPRU/Stock,AMP-R51K-10,Резисторы 51 кОм (10 шт.),Saleable,20,0
+__export__.stock_quant_324427_be88a705,AMPRU/Stock,AMP-R220K-10,Резисторы 220 кОм (10 шт.),Saleable,22,0
+__export__.stock_quant_324428_22c2acfa,AMPRU/Stock,AMP-R1M-10,Резисторы 1 МОм (10 шт.),Saleable,14,0
+__export__.stock_quant_324429_1c654d00,AMPRU/Stock,AMP-CC223-10,Конденсаторы керамические 22 нФ (10 шт.),Saleable,24,0
+__export__.stock_quant_324430_164c86e0,AMPRU/Stock,AMP-CE3U3-10,"Конденсаторы электролитические 3,3 мкФ (10 шт.)",Saleable,15,0
+__export__.stock_quant_324431_f689e1f5,AMPRU/Stock,AMP-CE4U7-10,"Конденсаторы электролитические 4,7 мкФ (10 шт.)",Saleable,22,0
+__export__.stock_quant_324432_1cc0dc67,AMPRU/Stock,AMP-CE22U-10,Конденсаторы электролитические 22 мкФ (10 шт.),Saleable,14,0
+__export__.stock_quant_324433_4e767c9d,AMPRU/Stock,AMP-CE33U-10,Конденсаторы электролитические 33 мкФ (10 шт.),Saleable,19,0
+__export__.stock_quant_324434_7ba1e966,AMPRU/Stock,AMP-CE47U-10,Конденсаторы электролитические 47 мкФ (10 шт.),Saleable,21,0
+__export__.stock_quant_324435_97fc116f,AMPRU/Stock,AMP-CE100U-10,Конденсаторы электролитические 100 мкФ (10 шт.),Saleable,10,0
+__export__.stock_quant_324436_b6bcb2a5,AMPRU/Stock,AMP-CE1M,Конденсатор электролитический 1000 мкФ,Saleable,8,0
+__export__.stock_quant_324439_d8ae8428,AMPRU/Stock,AMP-X168,DIP-панель для микросхемы (8 ног),Saleable,17,0
+__export__.stock_quant_324440_fa2673cb,AMPRU/Stock,AMP-X162,Микросхема логики SN74HC86N / 4×2-XOR,Saleable,18,0
+__export__.stock_quant_324441_3b1cbe10,AMPRU/Stock,AMP-X171,Микросхема логики SN74HC32N / 4×2-OR,Saleable,15,0
+__export__.stock_quant_324442_258696dc,AMPRU/Stock,AMP-X172,Микросхема логики SN74HC27N / 3×3-NOR,Saleable,39,0
+__export__.stock_quant_324443_bf0c8605,AMPRU/Stock,AMP-X173,Микросхема логики SN74HC08N / 4×2-AND,Saleable,23,0
+__export__.stock_quant_324444_1b82c181,AMPRU/Stock,AMP-X174,Микросхема логики SN74HC04N / 6×NOT,Saleable,53,0
+__export__.stock_quant_324445_33b654ed,AMPRU/Stock,AMP-X175,Микросхема логики SN74HC02N / 4×2-NOR»,Saleable,24,0
+__export__.stock_quant_324446_28fc4b09,AMPRU/Stock,AMP-X176,Микросхема логики SN74HC00N / 4×2-NAND,Saleable,50,0
+__export__.stock_quant_324449_f87e019a,AMPRU/Stock,AMP-X067,Кнопка на панель / без фиксации / красный,Saleable,8,0
+__export__.stock_quant_324450_58406d38,AMPRU/Stock,AMP-X170-R,Клеммник на панель Banana Plug (красный),Saleable,18,0
+__export__.stock_quant_324484_1a5f5cc2,AMPRU/Stock,AMP-R15K-10,Резисторы 15 кОм (10 шт.),Saleable,17,1
+__export__.stock_quant_324627_1f66c63d,AMPRU/Stock,AMP-R180R-10,Резисторы 180 Ом (10 шт.),Saleable,18,0
+__export__.stock_quant_324628_547a559d,AMPRU/Stock,AMP-R680R-10,Резисторы 680 Ом (10 шт.),Saleable,33,0
+__export__.stock_quant_324629_d8cf1bcc,AMPRU/Stock,AMP-R27K-10,Резисторы 27 кОм (10 шт.),Saleable,16,1
+__export__.stock_quant_324630_ae5aed2f,AMPRU/Stock,AMP-CC472-10,"Конденсаторы керамические 4,7 нФ (10 шт.)",Saleable,16,0
+__export__.stock_quant_324631_9d95fc75,AMPRU/Stock,AMP-CC473-10,Конденсаторы керамические 47 нФ (10 шт.),Saleable,22,0
+__export__.stock_quant_324632_06247e1c,AMPRU/Stock,AMP-X179,Кнопка тактовая / 12×12 мм / 4 контакта,Saleable,170,0
+__export__.stock_quant_325015_b6c05087,AMPRU/Stock,AMP-R330R-10,Резисторы 330 Ом (10 шт.),Saleable,12,0
+__export__.stock_quant_325016_325efba2,AMPRU/Stock,AMP-CC220-10,Конденсаторы керамические 22 пФ (10 шт.),Saleable,7,0
+__export__.stock_quant_325017_7187eb05,AMPRU/Stock,AMP-CE1U-10,Конденсаторы электролитические 1 мкФ (10 шт.),Saleable,14,0
+__export__.stock_quant_325018_0a5f029f,AMPRU/Stock,AMP-CE220U-10,Конденсаторы электролитические 220 мкФ (10 шт.),Saleable,99,0
+__export__.stock_quant_325020_0d134c5a,AMPRU/Stock,AMP-X551,Потенциометр дисковый 50 кОм,Retirement,70,0
+__export__.stock_quant_325021_7a827644,AMPRU/Stock,AMP-X036-B,Зажим «Крокодил» (чёрный),Saleable,23,0
+__export__.stock_quant_325022_5034296a,AMPRU/Stock,AMP-X036-R,Зажим «Крокодил» (красный),Saleable,27,0
+__export__.stock_quant_325023_0ecc8d23,AMPRU/Stock,AMP-M052,Нейлоновые винты М3×6 (4 шт.),Saleable,54,0
+__export__.stock_quant_325024_18aa03ac,AMPRU/Stock,AMP-M043,Стальная гайка M3 (4 шт.),Saleable,10,0
+__export__.stock_quant_325025_569c66a6,AMPRU/Stock,AMP-M038,Стальная гайка M2 (4 шт.),Saleable,35,0
+__export__.stock_quant_325026_8b796059,AMPRU/Stock,AMP-M040,Стальная барашковая гайка M4 (4 шт.),Saleable,25,0
+__export__.stock_quant_325027_72875315,AMPRU/Stock,AMP-X194,Клеммная колодка (4 мм² / 12 контактов),Saleable,17,0
+__export__.stock_quant_325621_ac930d01,AMPRU/Stock,PIM468,Аркадный автомат Pimoroni Picade 8″,Saleable,3,0
+__export__.stock_quant_325983_0a96e68a,AMPRU/Stock,CRS-001,Онлайн-курс Матрёшка,Retirement,6,0
+__export__.stock_quant_329836_609a9693,AMPRU/Stock,AMP-B057,Датчик горючих и угарного газов MQ-9 (Troyka-модуль),Saleable,1,0
+__export__.stock_quant_329837_2e8a0309,AMPRU/Stock,AMP-W009,Кабель USB (A — Micro USB),Saleable,1,0
+__export__.stock_quant_331122_219bb9f9,AMPRU/Stock,AMP-X610,Колпачок для RGB-энкодера,New,97,0
+__export__.stock_quant_333232_d0a795c3,AMPRU/Stock,AMP-V15823,Контроллер дисплея Waveshare e-Paper ESP32,Saleable,9,0
+__export__.stock_quant_335492_233ddb74,AMPRU/Stock,PIM458,Плата мониторинга окружающей среды Pimoroni Enviro+ HAT,Saleable,8,0
+__export__.stock_quant_335673_d17f3511,AMPRU/Stock,AMP-E039,Raspberry Pi Pico (без ног),Saleable,8,0
+__export__.stock_quant_337463_729376a2,AMPRU/Stock,AMP-CE2U2-10,"Конденсаторы электролитические 2,2 мкФ (10 шт.)",Saleable,29,0
+__export__.stock_quant_338870_80ed9ebb,AMPRU/Stock,ISBN-0062-7,BBC micro:bit для неугомонных учёных,Saleable,14,0
+__export__.stock_quant_339194_091d33c0,AMPRU/Stock,AMP-W024-5,Разъём JST SH-5 с проводами,Saleable,5,0
+__export__.stock_quant_339199_ddca0960,AMPRU/Stock,AMP-X545,Преобразователь USB-UART Nextion Foca Max,Saleable,8,0
+__export__.stock_quant_339205_e0ea959e,AMPRU/Stock,AMP-X494,Корпус для Raspberry Pi 4 с креплением VESA (LT4B17 / акрил / чёрный),Saleable,16,0
+__export__.stock_quant_340668_14274c9e,AMPRU/Stock,AMP-X041,"Гнездо питания 2,1 мм с клеммником",Saleable,7,0
+__export__.stock_quant_340669_5333af26,AMPRU/Stock,AMP-V15082,Драйвер дисплея Waveshare e-Paper Driver Shield,Saleable,9,1
+__export__.stock_quant_343817_d425b4f2,AMPRU/Stock,AMP-X651,Датчик влажности и температуры Sonoff AM2301,Saleable,5,0
+__export__.stock_quant_343818_44737368,AMPRU/Stock,AMP-X652,Герметичный датчик температуры Sonoff DS18B20,Saleable,11,0
+__export__.stock_quant_343819_da90d618,AMPRU/Stock,AMP-X653,Wi-Fi-реле Sonoff POW R2,Saleable,6,0
+__export__.stock_quant_343820_27bb2e8a,AMPRU/Stock,AMP-X654,Wi-Fi-реле Sonoff MINI R2,Saleable,1,0
+__export__.stock_quant_343821_727ef871,AMPRU/Stock,AMP-X655,Wi-Fi-реле Sonoff RE5V1C,Saleable,16,0
+__export__.stock_quant_343822_350605e4,AMPRU/Stock,AMP-X656,Wi-Fi-реле Sonoff 4CH PRO R3,Saleable,10,0
+__export__.stock_quant_343823_90a57f7f,AMPRU/Stock,AMP-X657,Умная розетка Sonoff S26,Saleable,7,0
+__export__.stock_quant_343824_188c52e4,AMPRU/Stock,AMP-X658,Беспроводной выключатель Sonoff T2EU1C,Saleable,13,0
+__export__.stock_quant_343825_763f52d1,AMPRU/Stock,AMP-X659,Умный патрон Sonoff Slampher R2,Saleable,7,0
+__export__.stock_quant_343826_680e5646,AMPRU/Stock,AMP-X661,Умный USB-адаптер Sonoff Micro,Saleable,6,0
+__export__.stock_quant_346958_58f3fadc,AMPRU/Stock,TN2000S,Импульсный блок питания (2000 мА),Saleable,8,0
+__export__.stock_quant_347503_52c53474,AMPRU/Stock,AMP-V12824,"Цветной сенсорный HDMI-дисплей для Raspberry Pi 480×320 / 3,5”",Saleable,14,0
+__export__.stock_quant_347528_c6b96dde,AMPRU/Stock,AMP-B127,Инфракрасный датчик движения (Troyka-модуль)	,Saleable,39,20
+__export__.stock_quant_348507_9f58f6be,AMPRU/Stock,AMP-F003,Сервопривод постоянного вращения Feetech FS5103R / 360°,Saleable,11,0
+__export__.stock_quant_348509_a8db6985,AMPRU/Stock,AMP-F024,Микросервопривод постоянного вращения Feetech FS90R / 360°,Saleable,24,0
+__export__.stock_quant_349457_166fe6c7,AMPRU/Stock,AMP-X375,Шаговый двигатель 28BYJ-48 5V,Saleable,6,0
+__export__.stock_quant_349772_2974f902,AMPRU/Stock,AMP-V16606, Ёмкостный сканер отпечатков пальцев (таблетка),Saleable,18,6
+__export__.stock_quant_349775_91fb1166,AMPRU/Stock,AMP-X490,Корпус для Raspberry Pi 4 с двумя кулерами (LT-4B02 / алюминий / золотой),Saleable,5,0
+__export__.stock_quant_349776_5d19caf4,AMPRU/Stock,AMP-X491,Корпус для Raspberry Pi 4 с двумя кулерами (LT-4B02 / алюминий / серый),Saleable,26,0
+__export__.stock_quant_352118_d3ca3269,AMPRU/Stock,AMP-X128,Резистор изгиба (95 мм),Saleable,8,0
+__export__.stock_quant_352122_6d8f44df,AMPRU/Stock,ABX00018,Arduino MKR GSM 1400,Saleable,9,0
+__export__.stock_quant_353351_c8ae9633,AMPRU/Stock,AMP-W003,Кабель питания от батарейки Крона,Saleable,30,0
+__export__.stock_quant_353466_59b8b665,AMPRU/Stock,AMP-X230,Микротумблер SMTS-102,Saleable,6,0
+__export__.stock_quant_357513_0e92e961,AMPRU/Stock,OMV-005,Плата расширения OpenMV WiFi Shield,Saleable,11,0
+__export__.stock_quant_357517_1a833832,AMPRU/Stock,AMP-B016,Макетная плата Perfboard (460 точек),Saleable,17,0
+__export__.stock_quant_358402_18d4712a,AMPRU/Stock,AMP-S024,Йодо,Saleable,68,60
+__export__.stock_quant_358702_a75c9890,AMPRU/Stock,AMP-B050,Датчик широкого спектра газов MQ-2 (Troyka-модуль),Saleable,26,20
+__export__.stock_quant_360056_55886663,AMPRU/Stock,AMP-X329,Cветодиодная RGB матрица 64×32,Saleable,1,1
+__export__.stock_quant_360634_f204312a,AMPRU/Stock,AMP-X320,"Цветной сенсорный дисплей Nextion Enhanced 3,5” / 480×320",Saleable,12,0
+__export__.stock_quant_360637_e8ae7792,AMPRU/Stock,AMP-X275,Моторизованный шаровой кран CWX-15Q (1/2 дюйма),Saleable,5,0
+__export__.stock_quant_360639_ce8781e9,AMPRU/Stock,AMP-X378,Геймпад Retroflag Classic USB Controller-J,Saleable,10,0
+__export__.stock_quant_361447_4fcecd38,AMPRU/Stock,AMP-X459,Батарейка Robiton CR2032,Saleable,11,0
+__export__.stock_quant_362129_1ea44cc6,AMPRU/Stock,AMP-X008-K,Breadboard Mini цветной,Saleable,8,0
+__export__.stock_quant_364038_d0dd0786,AMPRU/Stock,AMP-FR16-1000,"Мотор 12 мм (12 В, 20 об/мин)",Saleable,31,0
+__export__.stock_quant_364442_0435a023,AMPRU/Stock,AMP-CE10U-10,Конденсаторы электролитические 10 мкФ (10 шт.),Saleable,61,0
+__export__.stock_quant_364599_00c41486,AMPRU/Stock,AMP-S013,Образовательный набор «Амперка»,Saleable,5,5
+__export__.stock_quant_364602_3bdbc9b1,AMPRU/Stock,AMP-S026,Робоняша,Saleable,11,6
+__export__.stock_quant_364610_3d9002a4,AMPRU/Stock,SEN0161,pH-метр для воды DFRobot,Saleable,16,0
+__export__.stock_quant_367175_799dfedf,AMPRU/Stock,2500MHAA-1,Аккумулятор NiMH AA 2500 мАч,Saleable,86,0
+__export__.stock_quant_367649_31f694e6,AMPRU/Stock,AMP-X645,Дальномер Benewake TF02-Pro LiDAR,Saleable,14,14
+__export__.stock_quant_367650_3b952b5a,AMPRU/Stock,AMP-X236,Уплотнительное кольцо (3 мм),Saleable,37,0
+__export__.stock_quant_369908_1887f1c3,AMPRU/Stock,AMP-X376,Переходник HDMI-microHDMI,Saleable,6,0
+__export__.stock_quant_371616_a0a1cc48,AMPRU/Stock,AMP-B007,Датчик Холла (Troyka-модуль),Saleable,107,0
+__export__.stock_quant_371779_0d5fc10b,AMPRU/Stock,AMP-X623,PETG-пластик eSUN / жёлтый,Saleable,1,0
+__export__.stock_quant_372813_13c040fa,AMPRU/Stock,AMP-X295,Алюминиевые радиаторы охлаждения для Raspberry Pi (2 шт.),Saleable,17,10
+__export__.stock_quant_373706_8a18dd57,AMPRU/Stock,AMP-S034,Tetra,Retirement,7,7
+__export__.stock_quant_374962_96aa7edd,AMPRU/Stock,AMP-X106,Аналого-цифровой преобразователь MCP3008-I/P,Saleable,5,0
+__export__.stock_quant_375315_83aa1461,AMPRU/Stock,AMP-X546,Плата расширения Nextion I/O,Saleable,10,0
+__export__.stock_quant_375319_fd9591d6,AMPRU/Stock,AMP-V16595,Raspberry Pi Ethernet / USB HUB HAT,Saleable,13,0
+__export__.stock_quant_375898_47377224,AMPRU/Stock,AMP-X523,Медный радиатор охлаждения для Raspberry Pi,Saleable,25,0
+__export__.stock_quant_376056_bc42a99b,AMPRU/Stock,AMP-X224,Герметичный корпус 115×65×40,Saleable,6,0
+__export__.stock_quant_376352_2d09120c,AMPRU/Stock,AMP-X157,Погружная помпа с трубкой,Saleable,1,0
+__export__.stock_quant_376728_f65111d5,AMPRU/Stock,AMP-X218,Цветная адресуемая светодиодная лента WS2811,Saleable,9,0
+__export__.stock_quant_376740_d16182b8,AMPRU/Stock,AMP-X328,Эталонный монетоприёмник,Saleable,6,0
+__export__.stock_quant_377022_f7569791,AMPRU/Stock,AMP-X582,PLA-пластик FDplast / белый,Saleable,27,0
+__export__.stock_quant_377319_a00c464a,AMPRU/Stock,AMP-X145,Герметичный датчик температуры DS18B20,Saleable,15,0
+__export__.stock_quant_377728_b91dd328,AMPRU/Stock,AMP-E029,Объектив CGL 16 мм с креплением C-mount,Saleable,8,1
+__export__.stock_quant_378476_04990b4b,AMPRU/Stock,AMP-F001-U2,Микросервопривод Feetech FS90 / 180°,Saleable,21,0
+__export__.stock_quant_379451_8c427999,AMPRU/Stock,AMP-X119,Шаговый двигатель 42STH47-0406A,Saleable,10,0
+__export__.stock_quant_379567_bda0cfca,AMPRU/Stock,AMP-V19426,Часы реального времени v1 (RTC) для Raspberry Pi Pico,Saleable,5,0
+__export__.stock_quant_379815_b050e324,AMPRU/Stock,AMP-E042,Raspberry Pi PoE+ HAT,Saleable,1,0
+__export__.stock_quant_380214_4d44bba1,AMPRU/Stock,AMP-W040,"Монтажный провод НВ-4 (0,35 мм², 10 м, жёлтый)",Saleable,6,0
+__export__.stock_quant_380215_fa992fda,AMPRU/Stock,AMP-W041,"Монтажный провод НВ-4 (0,35 мм², 10 м, зелёный)",Saleable,15,0
+__export__.stock_quant_381089_846d7f37,AMPRU/Stock,ISBN-3863-3,От Arduino до Omega: платформы для мейкеров шаг за шагом,Saleable,13,0
+__export__.stock_quant_381092_81a51e1d,AMPRU/Stock,ISBN-3861-9,Мобильные роботы на базе Arduino,Saleable,22,0
+__export__.stock_quant_383171_1a20346e,AMPRU/Stock,AMP-X009-Y4,Светодиоды  жёлтые 5 мм (4 шт.),Saleable,16,0
+__export__.stock_quant_383922_95aa8ccd,AMPRU/Stock,AMP-X755,Набор тактовых кнопок (4×10 шт.),Saleable,13,5
+__export__.stock_quant_384378_54b38a09,AMPRU/Stock,AMP-X754,Самые нужные конденсаторы (9×10 шт.),Saleable,40,0
+__export__.stock_quant_384954_aebb86a3,AMPRU/Stock,AMP-W004,Кабель USB (A — B),Saleable,1,0
+__export__.stock_quant_385156_a211c894,AMPRU/Stock,AMP-B055,Датчик угарного газа MQ-7 (Troyka-модуль),Saleable,8,0
+__export__.stock_quant_385157_d8d226a0,AMPRU/Stock,AMP-X149,Паяльник Goot KS-30R (30 ватт),Saleable,8,0
+__export__.stock_quant_385441_4b0438d5,AMPRU/Stock,AMP-R10R-10,Резисторы 10 Ом (10 шт.),Saleable,18,0
+__export__.stock_quant_385442_8b8d1b9a,AMPRU/Stock,AMP-R22R-10,Резисторы 22 Ома (10 шт.),Saleable,40,0
+__export__.stock_quant_385443_ef34ddb2,AMPRU/Stock,AMP-R470R-10,Резисторы 470 Ом (10 шт.),Saleable,30,0
+__export__.stock_quant_385444_9be175a8,AMPRU/Stock,AMP-R22K-10,Резисторы 22 кОм (10 шт.),Saleable,20,1
+__export__.stock_quant_385445_2f2ff022,AMPRU/Stock,AMP-R47K-10,Резисторы 47 кОм (10 шт.),Saleable,141,1
+__export__.stock_quant_385987_e0263bd8,AMPRU/Stock,AMP-X593,Тефлоновая трубка PTFE / 4 мм / 1 м,Saleable,1,0
+__export__.stock_quant_386316_9685b2eb,AMPRU/Stock,AMP-X241,Герметичный кабельный ввод,Saleable,37,37
+__export__.stock_quant_386317_a42bb35a,AMPRU/Stock,AMP-X418,Бесконтактный датчик уровня жидкости XKC-Y25-V,Saleable,23,0
+__export__.stock_quant_388579_a0a1bfd8,AMPRU/Stock,AMP-X358,Мультиметр DT832,Saleable,26,0
+__export__.stock_quant_390433_ad712b06,AMPRU/Stock,AMP-B181,Мини-Реле  (Zelo-модуль),Saleable,4,1
+__export__.stock_quant_392021_cc0f6835,AMPRU/Stock,AMP-X550,"Цветной сенсорный дисплей Nextion Intelligent 10,1” / 1024×600",Saleable,27,0
+__export__.stock_quant_392024_6f72ef8b,AMPRU/Stock,AMP-X563,	Стекло с подогревом для Flying Bear Ghost 5,Saleable,6,0
+__export__.stock_quant_392028_761a147b,AMPRU/Stock,AMP-V10500,Датчик пыли Sharp GP2Y1010AU0F,Saleable,12,0
+__export__.stock_quant_392030_f4caa8b2,AMPRU/Stock,AMP-X564,Хотенд в сборе для Flying Bear Ghost 5,Saleable,5,0
+__export__.stock_quant_392037_5fb6f654,AMPRU/Stock,AMP-X273,Нормально открытый соленоидный клапан,Saleable,13,0
+__export__.stock_quant_392038_3eca6227,AMPRU/Stock,AMP-X283,Нормально закрытый соленоидный клапан,Saleable,39,21
+__export__.stock_quant_392105_b9b61849,AMPRU/Stock,AMP-FR30-150,"Мотор 12 мм (15 В, 160 об/мин)",Retirement,5,0
+__export__.stock_quant_393900_844d063e,AMPRU/Stock,AMP-X684,Турбинный вентилятор 5015 для Ghost 5,Saleable,1,0
+__export__.stock_quant_393902_85d3482f,AMPRU/Stock,AMP-X693,Зубчатый ремень GT2 / 6 мм / 3 м,Saleable,9,5
+__export__.stock_quant_393904_0b7def32,AMPRU/Stock,AMP-X696,Ролики для 3D-принтера (3 шт.),Saleable,4,4
+__export__.stock_quant_394009_d1a28874,AMPRU/Stock,AMP-F030,Микросервопривод Feetech FS0403-FB с обратной связью / 180°,Saleable,12,0
+__export__.stock_quant_394010_417f4d18,AMPRU/Stock,AMP-F031,Микросервопривод Feetech FS90-FB с обратной связью / 180°,Saleable,2,0
+__export__.stock_quant_394013_08c92b79,AMPRU/Stock,AMP-F034,Сервопривод Feetech FB5118M с обратной связью / 300°,Saleable,5,0
+__export__.stock_quant_394016_e222540b,AMPRU/Stock,AMP-X701,"Колёса Pololu (60×8 мм, пара)",Saleable,21,0
+__export__.stock_quant_394017_60431af8,AMPRU/Stock,AMP-X702,"Колёса Pololu (70×10 мм, пара)",Saleable,23,0
+__export__.stock_quant_394551_13c9d256,AMPRU/Stock,AMP-B079,Макетная плата Troyka Protoboard (72 точки),Saleable,34,0
+__export__.stock_quant_394555_4b2b9c8d,AMPRU/Stock,AMP-X214,ИК-пульт дистанционного управления (21 кнопка),Saleable,9,9
+__export__.stock_quant_394556_c686fe43,AMPRU/Stock,AMP-X167,DIP-панель для микросхемы (14 ног),Saleable,13,0
+__export__.stock_quant_395787_7732ce56,AMPRU/Stock,AMP-X705,Графический дисплей 128×64 (I²C),Saleable,18,0
+__export__.stock_quant_395825_53580844,AMPRU/Stock,AMP-X158,Двоичный счётчик SN74HC393N,Saleable,21,0
+__export__.stock_quant_397864_a370ee97,AMPRU/Stock,AMP-X699,Дальномер Benewake TFmini-S LiDAR,Saleable,10,0
+__export__.stock_quant_401211_dc2a0591,AMPRU/Stock,AMP-X346,Штекер AV 3.5mm,Saleable,19,0
+__export__.stock_quant_401213_1b23cae1,AMPRU/Stock,AMP-S032,«Робоняша» — дополнение набора «Йодо»,Saleable,20,11
+__export__.stock_quant_401576_1b6a84d8,AMPRU/Stock,AMP-X240,Кабельный ввод с амортизатором,Saleable,13,0
+__export__.stock_quant_401577_7aa9e34e,AMPRU/Stock,AMP-B192,Troyka HAT,Saleable,13,0
+__export__.stock_quant_401579_7de37a1a,AMPRU/Stock,AMP-B141,Iskra Mega,Saleable,61,1
+__export__.stock_quant_401581_06fad35c,AMPRU/Stock,AMP-X246,Ручка потенциометра MF-A01,Saleable,6,0
+__export__.stock_quant_401582_c69ecbdd,AMPRU/Stock,AMP-V14628,Цветной сенсорный HDMI-дисплей для Raspberry Pi 1024×600 / 7”,Saleable,11,6
+__export__.stock_quant_402642_cbe03abf,AMPRU/Stock,AMP-X756,Корпус Retroflag NESPi 4 Case,Saleable,5,0
+__export__.stock_quant_402643_163f6999,AMPRU/Stock,AMP-X757,Корпус Retroflag GPi Case,Saleable,8,0
+__export__.stock_quant_403747_0ce563f4,AMPRU/Stock,AMP-X758,Wi-Fi-реле Sonoff BASIC R2,Saleable,9,0
+__export__.stock_quant_404116_a7ce0f48,AMPRU/Stock,NOO-L012,Беспроводной выключатель nooLite SB-1-100 (100 Вт),Saleable,9,0
+__export__.stock_quant_404117_01676fd5,AMPRU/Stock,NOO-L004,Пульт-брелок nooLite PN411 (4 канала),Saleable,5,0
+__export__.stock_quant_404344_dce04d15,AMPRU/Stock,AMP-X244,Ручка потенциометра «Клюв»,Saleable,19,0
+__export__.stock_quant_405034_474b8894,AMPRU/Stock,A000009,Бокс для Arduino,Saleable,6,0
+__export__.stock_quant_405035_f8ae432e,AMPRU/Stock,AMP-X581,PETG-пластик FDplast / синий,Saleable,2,0
+__export__.stock_quant_405036_1b84b136,AMPRU/Stock,AMP-X580,PETG-пластик FDplast / белый,Saleable,9,0
+__export__.stock_quant_405041_a5d43f4d,AMPRU/Stock,AMP-X489,Корпус для Raspberry Pi 4 с двумя кулерами (LT-4B02 / алюминий / чёрный),Saleable,6,0
+__export__.stock_quant_405042_ca085d74,AMPRU/Stock,AMP-X345,Штекер 3.5mm,Saleable,6,0
+__export__.stock_quant_407053_71f00dd1,AMPRU/Stock,AMP-X305,Корпус для Raspberry Pi 3,Retirement,1,0
+__export__.stock_quant_407696_a0ea94cd,AMPRU/Stock,AMP-X210,Цифровой датчик температуры и влажности DHT-21,Saleable,13,0
+__export__.stock_quant_408618_67c7661c,AMPRU/Stock,AMP-E028,Объектив CGL 6 мм с креплением CS-mount,Saleable,5,0
+__export__.stock_quant_408751_e0761ed6,AMPRU/Stock,AMP-S060,Паяльник в лапах: зверская пайка,Saleable,3,1
+__export__.stock_quant_409318_66d21926,AMPRU/Stock,AMP-X268,Цветной сенсорный дисплей Nextion Enhanced 5” / 800×480”,Saleable,6,0
+__export__.stock_quant_409329_14dd1c03,AMPRU/Stock,AMP-S052,CyberMetal,Saleable,20,1
+__export__.stock_quant_409404_5a37465f,AMPRU/Stock,AMP-X223,Герметичный корпус 64×58×35,Saleable,15,0
+__export__.stock_quant_409673_d1193c29,AMPRU/Stock,IRL104A2B,Лазерный модуль,Saleable,10,3
+__export__.stock_quant_410440_9fd6ee61,AMPRU/Stock,AMP-W039,"Монтажный провод НВ-4 (0,35 мм², 10 м, красный)",Saleable,22,0
+__export__.stock_quant_412221_505dbfd9,AMPRU/Stock,AMP-B093,Светодиодная RGB матрица 4×4 (Troyka-модуль),Saleable,28,20
+__export__.stock_quant_412618_4b841644,AMPRU/Stock,AMP-B124,USB-UART преобразователь (Troyka-модуль),Saleable,22,0
+__export__.stock_quant_412633_fcdfb167,AMPRU/Stock,AMP-X010,Светодиод 5 мм инфракрасный,Saleable,18,0
+__export__.stock_quant_412690_583ceb0f,AMPRU/Stock,AMP-B174,Адаптер Raspberry Pi Breakout,Saleable,7,0
+__export__.stock_quant_413098_1d8c21cf,AMPRU/Stock,AMP-X682,Книга Паяльник в лапах,Materials Kits,1,0
+__export__.stock_quant_413633_f77941bb,AMPRU/Stock,AMP-B028,Драйвер шагового двигателя (Troyka-модуль),Saleable,1,0
+__export__.stock_quant_414154_10e5920a,AMPRU/Stock,1PK-501A,Бокорезы,Saleable,6,0
+__export__.stock_quant_414322_dcf784ae,AMPRU/Stock,AMP-F006,Сервопривод постоянного вращения Feetech FS5113R / 360°,Saleable,24,0
+__export__.stock_quant_414892_757fdd5a,AMPRU/Stock,AMP-X753,Самые нужные резисторы (13×10 шт.),Saleable,52,1
+__export__.stock_quant_415625_67a3c0da,AMPRU/Stock,AMP-X166,DIP-панель для микросхемы (16 ног),Saleable,19,0
+__export__.stock_quant_416017_b980574e,AMPRU/Stock,AMP-X209,Линейный регулятор напряжения LD1117V33,Saleable,22,0
+__export__.stock_quant_416163_3e9d7611,AMPRU/Stock,AMP-X583,PLA-пластик FDplast / чёрный,Saleable,8,0
+__export__.stock_quant_416227_ae758092,AMPRU/Stock,AMP-V16381,Цветной IPS-дисплей для Raspberry Pi 5” / 800×480 / DPI,Saleable,9,0
+__export__.stock_quant_416229_c74dad6c,AMPRU/Stock,AMP-V12885,Цветной IPS-дисплей для Raspberry Pi 7” / 1024×600 / DPI,Saleable,8,0
+__export__.stock_quant_416259_81456bc3,AMPRU/Stock,AMP-X626,PETG-пластик eSUN / натуральный,Saleable,5,0
+__export__.stock_quant_416672_c88f3b66,AMPRU/Stock,AMP-V14300,Цветной сенсорный HDMI-дисплей для Raspberry Pi 800×480 / 5”,Saleable,34,6
+__export__.stock_quant_416713_f4b4e87f,AMPRU/Stock,OMV-007,Объектив OpenMV Telephoto Lens,Saleable,11,0
+__export__.stock_quant_416817_27c522cd,AMPRU/Stock,AMP-X491,Корпус для Raspberry Pi 4 с двумя кулерами (LT-4B02 / алюминий / серый),Saleable,1,0
+__export__.stock_quant_417696_378b92b0,AMPRU/Stock,AMP-S059,CyberID,Saleable,47,0
+__export__.stock_quant_418812_a66cf2e6,AMPRU/Stock,AMP-X118,Шаговый двигатель 36HT20-0504MA,Saleable,20,1
+__export__.stock_quant_419017_7dc8948e,AMPRU/Stock,AMP-X583,PLA-пластик FDplast / чёрный,Saleable,1,0
+__export__.stock_quant_419324_fb36128a,AMPRU/Stock,AMP-X759,"Цветной сенсорный дисплей Nextion Intelligent 4,3” / 480×272",Saleable,7,1
+__export__.stock_quant_419325_83e585ca,AMPRU/Stock,AMP-X760,"Цветной сенсорный дисплей Nextion Intelligent 4,3” / 480×272 в корпусе",Saleable,8,0
+__export__.stock_quant_419326_71d50b09,AMPRU/Stock,AMP-X761,"Цветной сенсорный дисплей Nextion Intelligent 5,0” / 800×480",Saleable,1,1
+__export__.stock_quant_419327_cf8b1462,AMPRU/Stock,AMP-X762,"Цветной сенсорный дисплей Nextion Intelligent 5,0” / 800×480 в корпусе",Saleable,1,0
+__export__.stock_quant_421371_9c097cd1,AMPRU/Stock,AMP-S027,NYAN!,Saleable,13,0
+__export__.stock_quant_421622_5dc21587,AMPRU/Stock,AMP-FR03-100,"Мотор 12 мм (5 В, 300 об/мин)",Saleable,4,4
+__export__.stock_quant_421634_acaef3b4,AMPRU/Stock,AMP-X591,Драйвер шагового двигателя TMC2209,Saleable,4,0
+__export__.stock_quant_421998_04fe9f11,AMPRU/Stock,AMP-X379,Геймпад Retroflag Classic USB Controller-M,Saleable,8,0
+__export__.stock_quant_421999_13d8af1d,AMPRU/Stock,AMP-B058,"Сканер RFID/NFC 13,56 МГц (Troyka-модуль)",Saleable,18,0
+__export__.stock_quant_422002_f83bb986,AMPRU/Stock,AMP-V14810,Сканер штрих и QR-кодов,Saleable,15,2
+__export__.stock_quant_422004_3b1fc471,AMPRU/Stock,AMP-V17953,"Брелок с дисплеем E-Ink 1,54” / 200×200",Saleable,19,0
+__export__.stock_quant_422085_72eb6848,AMPRU/Stock,AMP-X637,PLA-пластик eSUN / чёрный,Saleable,9,0
+__export__.stock_quant_422086_eb956450,AMPRU/Stock,AMP-M019,Пластины большие (#Структор),Saleable,8,0
+__export__.stock_quant_422687_fae8f7bd,AMPRU/Stock,AMP-S050,CyberBug,Saleable,72,0
+__export__.stock_quant_423534_d4f35cf1,AMPRU/Stock,PIM355,Плата мониторинга окружающей среды Pimoroni enviro:bit,Saleable,8,0
+__export__.stock_quant_423535_9f245ef7,AMPRU/Stock,AMP-X616,Батарейный отсек bat:bit 3 для micro:bit,Saleable,6,0
+__export__.stock_quant_423537_12fdb80e,AMPRU/Stock,ABX00012,Arduino MKR Zero,Saleable,14,0
+__export__.stock_quant_423680_04b0a7d6,AMPRU/Stock,AMP-S030,Электроника для начинающих (часть 1),Saleable,25,0
+__export__.stock_quant_424004_5db73092,AMPRU/Stock,AMP-B006,ИК-приёмник (Troyka-модуль),Saleable,49,21
+__export__.stock_quant_424483_505c555b,AMPRU/Stock,AMP-R4K7-10,"Резисторы 4,7 кОм (10 шт.)",Saleable,23,1
+__export__.stock_quant_425433_4d4aee38,AMPRU/Stock,AMP-V13357,"Дисплейный модуль E-Ink для Raspberry Pi 2,7” / 264x176 / красный",Retirement,1,0
+__export__.stock_quant_425899_f0de52bf,AMPRU/Stock,AMP-B014,Макетная плата Breadboard PCB (830 точек),Saleable,20,0
+__export__.stock_quant_426941_34d22c66,AMPRU/Stock,AMP-B149,TDS-метр для воды (Troyka-модуль),Saleable,8,0
+__export__.stock_quant_427747_e4f53cd5,AMPRU/Stock,AMP-S051,CyberLight,Saleable,24,0
+__export__.stock_quant_427969_cb4c67f2,AMPRU/Stock,AMP-E040,Raspberry Pi Pico (c ногами),Saleable,24,0
+__export__.stock_quant_428124_ad6aeeac,AMPRU/Stock,AMP-B067,Troyka Pad 1×4 (Troyka-модуль),Saleable,13,0
+__export__.stock_quant_428125_b8d4709e,AMPRU/Stock,AMP-X097,Элемент Пельтье,Saleable,4,0
+__export__.stock_quant_428449_96a68772,AMPRU/Stock,AMP-S040,«Автополив» — дополнение набора «Йодо»,Saleable,18,0
+__export__.stock_quant_429078_65cd565d,AMPRU/Stock,AMP-X011,Двухцветный светодиод (красно-зелёный),Saleable,24,0
+__export__.stock_quant_429079_ea3e2bed,AMPRU/Stock,AMP-X360,Батарейки Duracell AAA (4 шт.),Saleable,19,0
+__export__.stock_quant_429080_78566457,AMPRU/Stock,AMP-X445,Батарейки Duracell AA (4 шт.),Saleable,10,0
+__export__.stock_quant_429202_58172879,AMPRU/Stock,AMP-X159,"Термоусадочная трубка ⌀ 1,5 мм / 70 мм (10 шт.)",Saleable,121,0
+__export__.stock_quant_429694_626f504f,AMPRU/Stock,AMP-W014,Шлейф из 40 проводов «мама-мама»,Saleable,4,0
+__export__.stock_quant_430379_01256ad5,AMPRU/Stock,AMP-V17076,"Raspberry Pi Battery HAT (Li-Pol, 5 В, 3000 мА·ч)",Saleable,6,0
+__export__.stock_quant_430755_a9024547,AMPRU/Stock,ROB0003,Четырёхколёсная платформа Pirate,Retirement,1,0
+__export__.stock_quant_431685_3d7cdbf9,AMPRU/Stock,AMP-X533,Espruino Puck.js v1,Retirement,1,0
+__export__.stock_quant_431689_982b9ecd,AMPRU/Stock,AMP-X361,Плата расширения для TFT-дисплеев,Retirement,4,0
+__export__.stock_quant_431707_a3c4c6b0,AMPRU/Stock,AMP-B169,Датчик цвета (Troyka-модуль),Saleable,11,0
+__export__.stock_quant_432267_fe2a247a,AMPRU/Stock,AMP-X311,Кнопка тактовая / 6×3 мм / 2 контакта,Saleable,75,0
+__export__.stock_quant_433023_425f6e1a,AMPRU/Stock,AMP-M018,Пластина мега (#Структор),Saleable,10,0
+__export__.stock_quant_433532_0bfd4777,AMPRU/Stock,AMP-X170-B,Клеммник на панель Banana Plug (чёрный),Saleable,23,0
+__export__.stock_quant_435094_2e0c7d6c,AMPRU/Stock,AMP-B078,Макетная плата Troyka Perfboard (72 точки),Saleable,25,0
+__export__.stock_quant_435827_62d8880f,AMPRU/Stock,AMP-B025,Резистивный датчик влажности почвы,Saleable,35,20
+__export__.stock_quant_436735_694300ae,AMPRU/Stock,AMP-B005-W,Светодиод «Пиранья» (Troyka-модуль),Saleable,6,0
+__export__.stock_quant_437344_ecb8f332,AMPRU/Stock,AMP-X452,Дальномер Benewake TFmini Plus LIDAR,Saleable,4,0
+__export__.stock_quant_437683_d92a549c,AMPRU/Stock,ABX00021,Arduino Uno Wi-Fi Rev 2,Saleable,5,0
+__export__.stock_quant_437741_ceb97646,AMPRU/Stock,AMP-X660,Wi-Fi IP-камера Sonoff GK-200MP2-B,Saleable,8,0
+__export__.stock_quant_438121_c3b1406e,AMPRU/Stock,AMP-B066,Мини-Реле (Troyka-модуль),Saleable,12,0
+__export__.stock_quant_438122_a846a520,AMPRU/Stock,AMP-F036,Сервопривод Feetech FT6335M / 360°,Saleable,8,0
+__export__.stock_quant_438124_258a11aa,AMPRU/Stock,AMP-X195,Wi-Fi модуль ESP8266,Saleable,10,0
+__export__.stock_quant_438125_236e618b,AMPRU/Stock,AMP-X258,Паяльник CXG ROHS 936d (60 ватт),Saleable,2,0
+__export__.stock_quant_439142_ac4cb5c1,AMPRU/Stock,AMP-X766,Espruino Puck.js v2.1,Saleable,6,0
+__export__.stock_quant_439143_aaee2ff1,AMPRU/Stock,AMP-X765,Смарт-часы Espruino Bangle.js v1,Saleable,3,0
+__export__.stock_quant_439308_a1fa515f,AMPRU/Stock,AMP-M008,Шаровая опора (12 мм),Saleable,8,0
+__export__.stock_quant_439309_7e306cc5,AMPRU/Stock,AMP-X297,Текстовый экран 20×4 / зелёный с чёрным / I²C,Saleable,11,0
+__export__.stock_quant_439797_f9a93aa1,AMPRU/Stock,AMP-B092,Сенсорная кнопка (Troyka-модуль),Saleable,13,5
+__export__.stock_quant_440272_978fa61c,AMPRU/Stock,AMP-B036,Troyka Mega Tail Shield,Saleable,10,0
+__export__.stock_quant_440273_d83143bc,AMPRU/Stock,AMP-X299,Текстовый дисплей 16×2 / зелёный с чёрным / I²C,Saleable,10,0
+__export__.stock_quant_440471_05454a29,AMPRU/Stock,AMP-B160,Силовой ключ P-Channel (Troyka-модуль),Saleable,37,32
+__export__.stock_quant_440555_d59b20f5,AMPRU/Stock,AMP-X576,Хотенд в сборе для CR-10,Retirement,1,0
+__export__.stock_quant_440557_5d498563,AMPRU/Stock,ABX00020,Arduino Yún Rev 2,Retirement,2,0
+__export__.stock_quant_441509_472e15b2,AMPRU/Stock,AMP-V13338,"Дисплейный модуль E-Ink 1,54” / 200×200 / красный",Saleable,15,0
+__export__.stock_quant_441510_450f5c1b,AMPRU/Stock,AMP-V12955,"Дисплейный модуль E-Ink 1,54” / 200×200 / монохромный",Saleable,16,2
+__export__.stock_quant_442086_31b50307,AMPRU/Stock,AMP-X200,Датчик пульса,Saleable,36,20
+__export__.stock_quant_442090_79553ed3,AMPRU/Stock,AMP-X350,Мультивалютный монетоприёмник YR-616,Saleable,7,0
+__export__.stock_quant_442091_7a634a02,AMPRU/Stock,AMP-X517,EasyVR 3 Plus Shield,Saleable,17,0
+__export__.stock_quant_442524_eee2da3b,AMPRU/Stock,AMP-S063,Рука-манипулятор XIII,Saleable,20,0
+__export__.stock_quant_442673_ead9b4af,AMPRU/Stock,AMP-V13275-V2,"Экран E-ink 1,54” / 200×200 / красный v2",Saleable,5,0
+__export__.stock_quant_442775_e9f55ab5,AMPRU/Stock,AMP-B188,"Power Bank v2 (5 В, 2000 мА·ч)",Saleable,10,0
+__export__.stock_quant_442779_2e102633,AMPRU/Stock,AMP-V14138,Контроллер дисплея Waveshare e-Paper ESP8266,Saleable,17,1
+__export__.stock_quant_442784_a2d94924,AMPRU/Stock,AMP-V14411-V2,"Экран E-Ink 5,83” / 648×480 / красный v2",Saleable,2,0
+__export__.stock_quant_442786_249c9d24,AMPRU/Stock,AMP-V13187-V2,"Экран E-Ink 7,5” / 800×480 / монохромный v2",Saleable,12,0
+__export__.stock_quant_443070_bd6c9364,AMPRU/Stock,AMP-B062-R,Светодиод 5 мм (Troyka-модуль),Saleable,5,0
+__export__.stock_quant_443359_be0eab7c,AMPRU/Stock,ISBN-3793-3,Электроника для начинающих (2-е издание),Saleable,8,0
+__export__.stock_quant_443856_2f92625a,AMPRU/Stock,AMP-X064-5,Диоды сигнальные Шоттки 1N5818 (5 шт.),Saleable,24,0
+__export__.stock_quant_443962_4bcdef1f,AMPRU/Stock,AMP-X055,Таймер NE555P,Saleable,54,0
+__export__.stock_quant_444156_54c8f3b3,AMPRU/Stock,AMP-X331,Wi-Fi-реле Sonoff Basic,Retirement,1,0
+__export__.stock_quant_444221_f1f40448,AMPRU/Stock,AMP-X147-FLA,Текстовый экран 8×2 / янтарный с чёрным,Saleable,9,3
+__export__.stock_quant_444304_55e629cf,AMPRU/Stock,AMP-B012,Датчик линии аналоговый,Saleable,16,0
+__export__.stock_quant_445435_06f78bdc,AMPRU/Stock,AMP-X347,Штекер-адаптер RJ45- CCTV 8AV,Saleable,14,0
+__export__.stock_quant_446000_2e182b7b,AMPRU/Stock,ABX00033,Arduino Nano Every,Saleable,12,5
+__export__.stock_quant_446001_dc1c5903,AMPRU/Stock,ABX00034,Arduino Nano 33 BLE,Saleable,12,0
+__export__.stock_quant_446002_0c43cc81,AMPRU/Stock,AMP-E019,Raspberry Pi NoIR Camera Board,Saleable,11,0
+__export__.stock_quant_446003_11a665f1,AMPRU/Stock,AMP-E027,Raspberry Pi High Quality Camera,Saleable,6,1
+__export__.stock_quant_446004_8cfb5765,AMPRU/Stock,AMP-E035,Официальная мышь Raspberry Pi,Saleable,9,0
+__export__.stock_quant_446175_52d88a55,AMPRU/Stock,AMP-X042,"Штекер питания 2,1 мм",Saleable,1,0
+__export__.stock_quant_446336_099d5a5a,AMPRU/Stock,AMP-V19406,"Дисплей E-Ink для Raspberry Pi Pico v1 2,13” / 250×122 / SPI",Saleable,14,0
+__export__.stock_quant_446337_45baeeb7,AMPRU/Stock,AMP-X221,Датчик уровня воды (угловой),Saleable,28,0
+__export__.stock_quant_446338_e05ea3d6,AMPRU/Stock,AMP-X278,Цветной сенсорный дисплей Nextion Enhanced 7” / 800×480”,Saleable,5,0
+__export__.stock_quant_446339_c795c8a3,AMPRU/Stock,AMP-X522,"Цветной сенсорный дисплей Nextion Enhanced 2,4” / 320×240",Saleable,14,0
+__export__.stock_quant_446340_7034cbdb,AMPRU/Stock,AMP-X548,Цветной сенсорный дисплей Nextion Intelligent 7” / 800×480,Saleable,8,1
+__export__.stock_quant_446341_3f612087,AMPRU/Stock,AMP-X549,Цветной сенсорный дисплей Nextion Intelligent 7” / 800×480 / в корпусе,Saleable,6,1
+__export__.stock_quant_446342_3d267e0b,AMPRU/Stock,AMP-X694,Директ-экструдер BIQU H2,Saleable,6,0
+__export__.stock_quant_446352_20941cef,AMPRU/Stock,AMP-V10737,Цветной сенсорный HDMI-дисплей 5” / 800×480,Saleable,8,0
+__export__.stock_quant_446353_381a66f2,AMPRU/Stock,AMP-V12039,Мини-камера для Raspberry Pi Zero,Saleable,12,0
+__export__.stock_quant_446354_2d672b57,AMPRU/Stock,AMP-V12219,"Цветной сенсорный дисплей для Raspberry Pi 320×240 / 2,8”",Saleable,9,0
+__export__.stock_quant_446356_7e4bd805,AMPRU/Stock,AMP-V16239,"Цветной сенсорный дисплей для Raspberry Pi 4,3” / 800×480 / DSI",Saleable,8,0
+__export__.stock_quant_446578_a87bd7b2,AMPRU/Stock,A000067,Arduino Mega 2560 R3,Saleable,2,2
+__export__.stock_quant_446582_38e18c4d,AMPRU/Stock,AMP-V13380-V2,"Экран E-Ink 7,5” / 800×480 / красный v2",Saleable,12,1
+__export__.stock_quant_447586_943636be,AMPRU/Stock,AMP-X235,Рокерный выключатель с подсветкой,Saleable,5,0
+__export__.stock_quant_447970_63ca252c,AMPRU/Stock,AMP-B061,Ethernet Shield,Saleable,5,5
+__export__.stock_quant_447971_9b0647c4,AMPRU/Stock,AMP-B102,Nano Switch,Saleable,3,0
+__export__.stock_quant_448152_bf740294,AMPRU/Stock,AMP-X313,Корпусная кнопка с подсветкой (60 мм),Saleable,3,0
+__export__.stock_quant_448452_5acae76e,AMPRU/Stock,AMP-X026-B,Кнопка тактовая с колпачком,Saleable,9,0
+__export__.stock_quant_448770_ef1961b1,AMPRU/Stock,AMP-S013-BI,Образовательный набор «Амперка» (Iskra Uno),Saleable,6,6
+__export__.stock_quant_449197_35289c29,AMPRU/Stock,AMP-B067,Troyka Pad 1×4 (Troyka-модуль),Saleable,1,0
+__export__.stock_quant_449198_fad470b4,AMPRU/Stock,AMP-X195,Wi-Fi модуль ESP8266,Saleable,1,0
+__export__.stock_quant_449269_35368a2e,AMPRU/Stock,AMP-X203,Датчик уровня воды (прямой),Saleable,30,0
+__export__.stock_quant_450489_4768a334,AMPRU/Stock,AMP-W023-3,Разъём JST PH-3 с проводами,Saleable,1,1
+__export__.stock_quant_450569_b627f810,AMPRU/Stock,AMP-E018,Raspberry Pi Camera Board v2.1,Saleable,5,0
+__export__.stock_quant_450837_9258cbf6,AMPRU/Stock,TEL0116,Модули связи LoRa 433 МГц (2 шт.),Saleable,2,0
+__export__.stock_quant_450992_7201d46f,AMPRU/Stock,AMP-W023-4,Разъём JST PH-4 с проводами,Saleable,12,0
+__export__.stock_quant_450993_6a138f08,AMPRU/Stock,AMP-X319,"Цветной сенсорный дисплей Nextion Enhanced 4,3” / 480×272",Saleable,22,0
+__export__.stock_quant_450995_cb468ecf,AMPRU/Stock,AMP-B003,Потенциометр (Troyka-модуль),Saleable,32,20
+__export__.stock_quant_450996_fab19f39,AMPRU/Stock,AMP-B045,Цифровой датчик температуры и влажности (Troyka-модуль),Saleable,29,20
+__export__.stock_quant_450997_2268f916,AMPRU/Stock,AMP-X016,Фоторезистор,Saleable,18,0
+__export__.stock_quant_451482_9a2306c6,AMPRU/Stock,AMP-B100,H-мост (Troyka-модуль),Saleable,10,0
+__export__.stock_quant_452309_51a53e5a,AMPRU/Stock,AMP-X500,Вентилятор охлаждения (30×30×8 мм),Saleable,27,0
+__export__.stock_quant_452596_a3934657,AMPRU/Stock,AMP-B081,Wi-Fi (Troyka-модуль),Saleable,9,5
+__export__.stock_quant_454758_c95552fd,AMPRU/Stock,AMP-B086-R,Четырёхразрядный индикатор (Troyka-модуль),Saleable,12,0
+__export__.stock_quant_454857_54458d34,AMPRU/Stock,AMP-B046,Iskra JS,Saleable,8,0
+__export__.stock_quant_454858_0c303531,AMPRU/Stock,AMP-B030,Iskra Neo,Saleable,17,10
+__export__.stock_quant_454974_4952fd92,AMPRU/Stock,FIT0006,Крепление для ультразвукового дальномера URM37,Saleable,5,0
+__export__.stock_quant_455141_f4dad4b8,AMPRU/Stock,AMP-X552,Разъём JST SM-3 Male с проводами,Saleable,12,0
+__export__.stock_quant_455142_79f41f4c,AMPRU/Stock,AMP-X784,Микроконтроллер LGT8F328P-LQFP32,Saleable,53,0
+__export__.stock_quant_455143_912c7cfb,AMPRU/Stock,TN1000S,Импульсный блок питания (1000 мА),Saleable,23,6
+__export__.stock_quant_455145_262e0e68,AMPRU/Stock,AMP-S031,Электроника для начинающих (часть 2),Saleable,11,0
+__export__.stock_quant_455216_6aed603d,AMPRU/Stock,A000066,Arduino Uno,Saleable,30,26
+__export__.stock_quant_455217_f3f52fb2,AMPRU/Stock,AMP-B148,pH-метр для воды (Troyka-модуль),Saleable,5,0
+__export__.stock_quant_455218_034eb315,AMPRU/Stock,AMP-M010,Нейлоновые гайки М3 (4 шт.),Saleable,18,0
+__export__.stock_quant_455220_eb7ba32e,AMPRU/Stock,AMP-W024-4,Разъём JST SH-4 с проводами,Saleable,21,0
+__export__.stock_quant_455221_df57b8e5,AMPRU/Stock,AMP-W038,"Монтажный провод НВ-4 (0,35 мм², 10 м, чёрный)",Saleable,6,0
+__export__.stock_quant_455444_6274ca60,AMPRU/Stock,AMP-M030,"Втулки на вал мотора (⌀ 5 мм, пара)",Saleable,7,0
+__export__.stock_quant_455507_01ee45c5,AMPRU/Stock,AMP-B039,Iskra Mini (с ногами),Saleable,8,0
+__export__.stock_quant_455508_fbfcbc53,AMPRU/Stock,AMP-B040,Iskra Mini (без ног),Saleable,3,0
+__export__.stock_quant_455509_db7bcbd3,AMPRU/Stock,AMP-E014,STM32 Nucleo F401RE,Saleable,7,0
+__export__.stock_quant_455511_098e4b27,AMPRU/Stock,AMP-X068,Динамик HSP3040A,Saleable,5,0
+__export__.stock_quant_455512_c9b38eca,AMPRU/Stock,AMP-X139-2,Крепления для 12 мм моторов (пара),Saleable,14,0
+__export__.stock_quant_455514_07934519,AMPRU/Stock,AMP-X309,Адаптер PoE,Saleable,20,0
+__export__.stock_quant_455515_c68e09a6,AMPRU/Stock,AMP-X683,"Цветной графический TFT-экран 320×240 / 2,8”",Saleable,8,0
+__export__.stock_quant_455832_1e40363a,AMPRU/Stock,AMP-X324,Круглый светодиодный модуль RGB WS2812 / 7×LED,Saleable,1,0
+__export__.stock_quant_455833_400f66b0,AMPRU/Stock,AMP-X570,"Сопло 0,4 мм",Saleable,3,0
+__export__.stock_quant_455834_c28f3100,AMPRU/Stock,AMP-X750,"Цветной сенсорный дисплей Nextion Discovery 2,4” / 320×240",Saleable,1,0
+__export__.stock_quant_455920_f08869cb,AMPRU/Stock,AMP-B065,Bluetooth HC-05 (Troyka-модуль),Saleable,9,0
+__export__.stock_quant_455922_e06975cc,AMPRU/Stock,AMP-B167,Приёмник GPS/GLONASS v2 (Troyka-модуль),Saleable,5,0
+__export__.stock_quant_456040_fa972c33,AMPRU/Stock,AMP-B146,Текстовый дисплей 16×2 (Troyka-модуль),Saleable,18,0
+__export__.stock_quant_456042_9a76e158,AMPRU/Stock,AMP-X124,XBee,Saleable,8,0
+__export__.stock_quant_456043_af866dfe,AMPRU/Stock,AMP-X643,BBC micro:bit v2,Saleable,35,0
+__export__.stock_quant_456044_c67e6631,AMPRU/Stock,OMV-011,Камера машинного зрения OpenMV H7 Plus,Saleable,12,8
+__export__.stock_quant_456045_b6df305c,AMPRU/Stock,OMV-012,Камера машинного зрения OpenMV H7 R2,Saleable,14,0
+__export__.stock_quant_456603_98f8c33b,AMPRU/Stock,AMP-H002,Микроконтроллер ATmega328P-PU,Saleable,16,0
+__export__.stock_quant_456730_fd3d035e,AMPRU/Stock,AMP-S058,Образовательный набор «Введение в Интернет вещей»,Saleable,9,1
+__export__.stock_quant_456940_fa1fac38,AMPRU/Stock,AMP-S045-U2,Драгстер U2,Saleable,3,2
+__export__.stock_quant_457383_cb2d0a5c,AMPRU/Stock,AMP-V10737,Цветной сенсорный HDMI-дисплей 5” / 800×480,Saleable,1,0
+__export__.stock_quant_458027_0f8281d6,AMPRU/Stock,AMP-B001,"Motor Shield (2 канала, 2 А)",Saleable,15,0
+__export__.stock_quant_458033_4a52af43,AMPRU/Stock,AMP-S033,«Интернет вещей» — дополнение набора «Йодо»,Saleable,21,0
+__export__.stock_quant_458134_fd8f6dff,AMPRU/Stock,AMP-B048,3D-джойстик (Troyka-модуль),Saleable,11,0
+__export__.stock_quant_458256_633bc7d0,AMPRU/Stock,AMP-B143,Энкодер Troyka-модуль,Saleable,6,0
+__export__.stock_quant_458327_68f919dd,AMPRU/Stock,AMP-B073,SD картридер (Troyka-модуль),Saleable,14,0
+__export__.stock_quant_458328_fa75f68b,AMPRU/Stock,AMP-X038,Клеммник нажимной,Saleable,55,0
+__export__.stock_quant_458839_61a254c0,AMPRU/Stock,AMP-X270,Кварцевый резонатор KX-3H,Saleable,19,0
+__export__.stock_quant_458881_1b90cfe7,AMPRU/Stock,AMP-B015,Макетная плата Breadboard PCB (400 точек),Saleable,26,0
+__export__.stock_quant_458920_7231a8f2,AMPRU/Stock,AMP-W022,Трёхпроводной шлейф «мама-папа»,Saleable,12,0
+__export__.stock_quant_459252_778d0bd3,AMPRU/Stock,SEN0169,pH-метр для воды DFRobot Pro,Saleable,12,0
+__export__.stock_quant_459463_118e7a15,AMPRU/Stock,AMP-B168,Приёмник GPS/GLONASS v2 с внешней антенной (Troyka-модуль),Saleable,5,0
+__export__.stock_quant_459626_3cae8623,AMPRU/Stock,AMP-S009,Матрёшка Y,Saleable,6,0
+__export__.stock_quant_459981_55622726,AMPRU/Stock,AMP-X211,Лазерный модуль мини,Saleable,4,0
+__export__.stock_quant_459984_772bedad,AMPRU/Stock,AMP-B133-RU,Восьмиканальный датчик линии Octoliner v2,Saleable,9,0
+__export__.stock_quant_460176_fc88d2de,AMPRU/Stock,AMP-B154,I²C-DAC с винтовыми клеммами (Troyka-модуль),Saleable,5,0
+__export__.stock_quant_460284_6a1762bd,AMPRU/Stock,AMP-S034-U2,Tetra mBlock,Saleable,36,13
+__export__.stock_quant_460619_ece4b429,AMPRU/Stock,FLP-M-WIFI,Модуль Wi-Fi для Flipper Zero,Saleable,44,2
+__export__.stock_quant_460620_995c2de8,AMPRU/Stock,FLP-Z-W-R01,Flipper Zero,Saleable,36,4
+__export__.stock_quant_460622_e5cb0835,AMPRU/Stock,FLP-M-PROTO-3X,Макетные платы для Flipper Zero,Saleable,153,0
+__export__.stock_quant_460623_1a5ad105,AMPRU/Stock,FLP-A-FILM-3X,Защитные плёнки для Flipper Zero (3 шт.),Saleable,53,1
+__export__.stock_quant_460880_7fcff879,AMPRU/Stock,AMP-S041,Планета XOD,Saleable,10,0
+__export__.stock_quant_461042_3b9ff35a,AMPRU/Stock,AMP-X192,Втулка на вал сервопривода,Saleable,10,0
+__export__.stock_quant_462236_43db1c69,AMPRU/Stock,AMP-W044,"Монтажный провод НВ-4 (1 мм², 5 м, красный)",Saleable,29,0
+__export__.stock_quant_462237_d0519d49,AMPRU/Stock,AMP-W045,"Монтажный провод НВ-4 (1 мм², 5 м, чёрный)",Saleable,29,0
